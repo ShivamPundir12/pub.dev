@@ -1,0 +1,3693 @@
+{
+    "next_url": "https://pub.dartlang.org/api/packages?page=2",
+    "packages": [{
+            "name": "monster_athlete_dart_client",
+            "latest": {
+                "version": "1.0.7",
+                "pubspec": {
+                    "name": "monster_athlete_dart_client",
+                    "description": "Api client for foolog.",
+                    "version": "1.0.7",
+                    "homepage": "http://www.foodlog-athl.org/",
+                    "repository": "https://github.com/Food-Log/monster-athlete-dart-client",
+                    "environment": {
+                        "sdk": ">=2.18.2 <3.0.0"
+                    },
+                    "dependencies": {
+                        "meta": "^1.8.0",
+                        "dio": "^4.0.6",
+                        "recase": "^4.1.0",
+                        "json_annotation": "^4.7.0",
+                        "intl": "^0.17.0",
+                        "crypto": "^3.0.2"
+                    },
+                    "dev_dependencies": {
+                        "lints": "^2.0.0",
+                        "test": "^1.16.0",
+                        "build_runner": "^2.3.0",
+                        "json_serializable": "^6.5.1"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/monster_athlete_dart_client/versions/1.0.7.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/monster_athlete_dart_client",
+                "url": "https://pub.dartlang.org/api/packages/monster_athlete_dart_client/versions/1.0.7"
+            }
+        },
+        {
+            "name": "fexr",
+            "latest": {
+                "version": "0.8.1",
+                "pubspec": {
+                    "name": "fexr",
+                    "description": "fexr-flutter is a lite wallet for Rubix Blockchain Protocol that helps to Connect your on-chain connectors to authenticate or sign third party accounts which are integrated with Rubix Blockchain Platform and uses Fexr APIs. Strict permission requirements built in Fexr apps will protect the access to your data also while allowing seamless integration.",
+                    "repository": "https://github.com/getfexr/fexr-flutter",
+                    "issue_tracker": "https://github.com/getfexr/fexr-flutter/issues",
+                    "version": "0.8.1",
+                    "environment": {
+                        "sdk": ">=2.12.0 <3.0.0",
+                        "flutter": ">1.20.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "grpc": "^3.0.2",
+                        "protobuf": "^2.1.0",
+                        "path_provider": "^2.0.8",
+                        "image": "^3.2.0",
+                        "sha3": "^0.2.0",
+                        "convert": "^3.0.2",
+                        "fixnum": "^1.0.1"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "dart_code_metrics": "^4.1.0",
+                        "lints": "^2.0.1"
+                    },
+                    "flutter": {
+                        "assets": [
+                            "lib/utils/"
+                        ]
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/fexr/versions/0.8.1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/fexr",
+                "url": "https://pub.dartlang.org/api/packages/fexr/versions/0.8.1"
+            }
+        },
+        {
+            "name": "slidable_bottom_app_bar",
+            "latest": {
+                "version": "1.0.1",
+                "pubspec": {
+                    "name": "slidable_bottom_app_bar",
+                    "description": "A slidable bottom app bar can slide to the medal of the screen.",
+                    "version": "1.0.1",
+                    "homepage": "https://github.com/abbas-al-turkmani/slidable-bottom-app-bar",
+                    "environment": {
+                        "sdk": ">=2.18.0 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.0"
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/slidable_bottom_app_bar/versions/1.0.1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/slidable_bottom_app_bar",
+                "url": "https://pub.dartlang.org/api/packages/slidable_bottom_app_bar/versions/1.0.1"
+            }
+        },
+        {
+            "name": "mocked_backend",
+            "latest": {
+                "version": "1.0.5",
+                "pubspec": {
+                    "name": "mocked_backend",
+                    "description": "Mocked backend for testing",
+                    "version": "1.0.5",
+                    "repository": "https://github.com/RonyBrosh/mocked_backend.git",
+                    "environment": {
+                        "sdk": ">=2.18.4 <3.0.0"
+                    },
+                    "dependencies": {
+                        "dio": "^4.0.6",
+                        "flutter": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/mocked_backend/versions/1.0.5.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/mocked_backend",
+                "url": "https://pub.dartlang.org/api/packages/mocked_backend/versions/1.0.5"
+            }
+        },
+        {
+            "name": "apple_product_name",
+            "latest": {
+                "version": "1.3.1",
+                "pubspec": {
+                    "name": "apple_product_name",
+                    "description": "Library for translation apple device identifier to product name (e.g. 'iPhone13,2' to 'iPhone 12')",
+                    "version": "1.3.1",
+                    "homepage": "https://github.com/kyle-seongwoo-jun/flutter_apple_product_name",
+                    "environment": {
+                        "sdk": ">=2.12.0 <3.0.0",
+                        "flutter": ">=3.0.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "device_info_plus": "^8.0.0"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/apple_product_name/versions/1.3.1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/apple_product_name",
+                "url": "https://pub.dartlang.org/api/packages/apple_product_name/versions/1.3.1"
+            }
+        },
+        {
+            "name": "openvpn_flutter",
+            "latest": {
+                "version": "1.2.1",
+                "pubspec": {
+                    "name": "openvpn_flutter",
+                    "description": "A plugin that allow you to connect OpenVPN service with Flutter",
+                    "version": "1.2.1",
+                    "homepage": "https://github.com/nizwar/openvpn_flutter",
+                    "environment": {
+                        "sdk": ">=2.12.0 <3.0.0",
+                        "flutter": ">=2.5.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "dev_dependencies": {
+                        "flutter_lints": "^1.0.0",
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "flutter": {
+                        "plugin": {
+                            "platforms": {
+                                "android": {
+                                    "package": "id.laskarmedia.openvpn_flutter",
+                                    "pluginClass": "OpenVPNFlutterPlugin"
+                                },
+                                "ios": {
+                                    "pluginClass": "OpenVPNFlutterPlugin"
+                                }
+                            }
+                        }
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/openvpn_flutter/versions/1.2.1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/openvpn_flutter",
+                "url": "https://pub.dartlang.org/api/packages/openvpn_flutter/versions/1.2.1"
+            }
+        },
+        {
+            "name": "emoji_selector",
+            "latest": {
+                "version": "0.0.4",
+                "pubspec": {
+                    "name": "emoji_selector",
+                    "homepage": "https://github.com/Alfaizkhan/flutter-emoji-selector",
+                    "issue_tracker": "https://github.com/Alfaizkhan/flutter-emoji-selector/issues",
+                    "description": "An Emoji picker component for Flutter with the latest set of emojis. The current version supports Emoji version 13.",
+                    "repository": "https://github.com/Alfaizkhan/flutter-emoji_selector",
+                    "version": "0.0.4",
+                    "environment": {
+                        "sdk": ">=2.17.3 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "flutter": {
+                        "assets": [
+                            "packages/emoji_selector/data/emoji.json"
+                        ]
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/emoji_selector/versions/0.0.4.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/emoji_selector",
+                "url": "https://pub.dartlang.org/api/packages/emoji_selector/versions/0.0.4"
+            }
+        },
+        {
+            "name": "hyper_polyline",
+            "latest": {
+                "version": "0.0.4",
+                "pubspec": {
+                    "name": "hyper_polyline",
+                    "description": "A flutter_map plugin that adds Polyline class with onTap event",
+                    "version": "0.0.4",
+                    "homepage": "https://github.com/ealflm/hyper_polyline",
+                    "environment": {
+                        "sdk": ">=2.18.4 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_map": "^3.0.0",
+                        "latlong2": "^0.8.1",
+                        "positioned_tap_detector_2": "^1.0.0"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.0"
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/hyper_polyline/versions/0.0.4.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/hyper_polyline",
+                "url": "https://pub.dartlang.org/api/packages/hyper_polyline/versions/0.0.4"
+            }
+        },
+        {
+            "name": "easy_http",
+            "latest": {
+                "version": "1.0.9",
+                "pubspec": {
+                    "name": "easy_http",
+                    "description": "A Flutter Http lib for easy cache and update UI bind with Getx.",
+                    "version": "1.0.9",
+                    "homepage": "https://github.com/weishirongzhen/easy_http.git",
+                    "environment": {
+                        "sdk": ">=2.16.2 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "get": "^4.6.5",
+                        "get_storage": "^2.0.3",
+                        "dio": "^4.0.6",
+                        "pull_to_refresh": "^2.0.0"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.1"
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/easy_http/versions/1.0.9.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/easy_http",
+                "url": "https://pub.dartlang.org/api/packages/easy_http/versions/1.0.9"
+            }
+        },
+        {
+            "name": "tencent_orc",
+            "latest": {
+                "version": "0.0.4",
+                "pubspec": {
+                    "name": "tencent_orc",
+                    "description": "A new Flutter plugin.",
+                    "version": "0.0.4",
+                    "homepage": "https://gitee.com/jimonik/tencent-ocr-flutter-plugin",
+                    "environment": {
+                        "sdk": ">=2.18.4 <3.0.0",
+                        "flutter": ">=2.5.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "plugin_platform_interface": "^2.0.2"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.0"
+                    },
+                    "flutter": {
+                        "plugin": {
+                            "platforms": {
+                                "android": {
+                                    "package": "com.xy.tencent_orc",
+                                    "pluginClass": "TencentOrcPlugin"
+                                }
+                            }
+                        }
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/tencent_orc/versions/0.0.4.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/tencent_orc",
+                "url": "https://pub.dartlang.org/api/packages/tencent_orc/versions/0.0.4"
+            }
+        },
+        {
+            "name": "jinya_cms_api",
+            "latest": {
+                "version": "1.0.16",
+                "pubspec": {
+                    "name": "jinya_cms_api",
+                    "description": "Implementation of the Jinya CMS API written in Dart for use with Flutter and other Dart apps",
+                    "version": "1.0.16",
+                    "homepage": "https://github.com/Jinya-CMS/jinya-cms-dart-sdk",
+                    "environment": {
+                        "sdk": ">=2.17.7 <3.0.0"
+                    },
+                    "dependencies": {
+                        "http": "^0.13.5",
+                        "json_annotation": "^4.7.0"
+                    },
+                    "dev_dependencies": {
+                        "lints": "^2.0.1",
+                        "json_serializable": "6.5.4",
+                        "build_runner": "2.3.2"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/jinya_cms_api/versions/1.0.16.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/jinya_cms_api",
+                "url": "https://pub.dartlang.org/api/packages/jinya_cms_api/versions/1.0.16"
+            }
+        },
+        {
+            "name": "flutter_smart_watch_platform_interface",
+            "latest": {
+                "version": "0.0.2",
+                "pubspec": {
+                    "name": "flutter_smart_watch_platform_interface",
+                    "description": "A common platform interface for the flutter_smart_watch plugin.",
+                    "version": "0.0.2",
+                    "homepage": "https://github.com/ssttonn/flutter_smart_watch/tree/master/flutter_smart_watch_platform_interface",
+                    "environment": {
+                        "sdk": ">=2.17.6 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "plugin_platform_interface": "^2.1.3"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/flutter_smart_watch_platform_interface/versions/0.0.2.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/flutter_smart_watch_platform_interface",
+                "url": "https://pub.dartlang.org/api/packages/flutter_smart_watch_platform_interface/versions/0.0.2"
+            }
+        },
+        {
+            "name": "dart_dependency_updater",
+            "latest": {
+                "version": "1.0.22+1",
+                "pubspec": {
+                    "name": "dart_dependency_updater",
+                    "description": "A package that will scan for dependencies in a Dart repo, update them if needed, and can update the repo with them.",
+                    "version": "1.0.22+1",
+                    "homepage": "https://github.com/peiffer-innovations/actions_dart_dependency_updater",
+                    "environment": {
+                        "sdk": ">=2.18.0 <3.0.0"
+                    },
+                    "dependencies": {
+                        "args": "^2.3.1",
+                        "github": "^9.6.0",
+                        "http": "^0.13.5",
+                        "intl": "^0.17.0",
+                        "json_class": "^2.1.2+13",
+                        "logging": "^1.1.0",
+                        "meta": "^1.7.0",
+                        "pub_api_client": "^2.2.1",
+                        "pub_semver": "^2.1.2",
+                        "yaml": "^3.1.1",
+                        "yaml_writer": "^1.0.2"
+                    },
+                    "dev_dependencies": {
+                        "test": "^1.22.0"
+                    },
+                    "ignore_updates": [
+                        "archive",
+                        "async",
+                        "boolean_selector",
+                        "characters",
+                        "charcode",
+                        "collection",
+                        "clock",
+                        "crypto",
+                        "fake_async",
+                        "file",
+                        "matcher",
+                        "material_color_utilities",
+                        "meta",
+                        "path",
+                        "source_span",
+                        "stack_trace",
+                        "stream_channel",
+                        "string_scanner",
+                        "sync_http",
+                        "term_glyph",
+                        "test_api",
+                        "typed_data",
+                        "vector_math",
+                        "webdriver"
+                    ]
+                },
+                "archive_url": "https://pub.dartlang.org/packages/dart_dependency_updater/versions/1.0.22%2B1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/dart_dependency_updater",
+                "url": "https://pub.dartlang.org/api/packages/dart_dependency_updater/versions/1.0.22%2B1"
+            }
+        },
+        {
+            "name": "buzz_firestore",
+            "latest": {
+                "version": "0.0.8",
+                "pubspec": {
+                    "name": "buzz_firestore",
+                    "description": "An Firestore implementation of Buzz Remote Repo",
+                    "version": "0.0.8",
+                    "homepage": "https://github.com/abbas-alshafai/buzz_firestore",
+                    "environment": {
+                        "sdk": ">=2.16.1 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "cloud_firestore": "^4.0.4",
+                        "cloud_functions": "^4.0.3",
+                        "buzz_repo": "^0.0.12",
+                        "buzz_utils": "^0.0.3",
+                        "buzz_result": "^0.0.1",
+                        "buzz_logger": "^0.0.2"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.1"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/buzz_firestore/versions/0.0.8.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/buzz_firestore",
+                "url": "https://pub.dartlang.org/api/packages/buzz_firestore/versions/0.0.8"
+            }
+        },
+        {
+            "name": "mixins",
+            "latest": {
+                "version": "0.0.9",
+                "pubspec": {
+                    "name": "mixins",
+                    "description": "Mixins is a package for shortening the use of some widgets or properties.",
+                    "version": "0.0.9",
+                    "homepage": "https://github.com/ashtav/mixins",
+                    "environment": {
+                        "sdk": ">=2.17.1 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "http": "^0.13.4",
+                        "intl": "^0.17.0",
+                        "path_provider": "^2.0.11",
+                        "stack_trace": "^1.10.0"
+                    },
+                    "dev_dependencies": {
+                        "flutter_lints": "^2.0.0",
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/mixins/versions/0.0.9.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/mixins",
+                "url": "https://pub.dartlang.org/api/packages/mixins/versions/0.0.9"
+            }
+        },
+        {
+            "name": "omniversify_core",
+            "latest": {
+                "version": "0.0.6",
+                "pubspec": {
+                    "name": "omniversify_core",
+                    "description": "The Foundation of the the Omniversify Project, this package started as a way for the Omniversify design language to be shared across its apps, but it could be used by everyone.",
+                    "version": "0.0.6",
+                    "homepage": "https://omniversify.com",
+                    "repository": "https://github.com/phaylali/omniversify_core",
+                    "platforms": {
+                        "android": null,
+                        "ios": null,
+                        "linux": null,
+                        "macos": null,
+                        "web": null,
+                        "windows": null
+                    },
+                    "environment": {
+                        "sdk": ">=2.18.2 <3.0.0",
+                        "flutter": ">=3.0.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "url_strategy": "^0.2.0",
+                        "url_launcher": "^6.1.6",
+                        "get": "^4.6.5",
+                        "get_storage": "^2.0.3",
+                        "flutter_svg": "^1.1.6",
+                        "intl": "^0.17.0",
+                        "google_fonts": "^3.0.1"
+                    },
+                    "dev_dependencies": {
+                        "flutter_lints": "^2.0.0",
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "flutter": {
+                        "uses-material-design": true,
+                        "assets": [
+                            "assets/"
+                        ]
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/omniversify_core/versions/0.0.6.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/omniversify_core",
+                "url": "https://pub.dartlang.org/api/packages/omniversify_core/versions/0.0.6"
+            }
+        },
+        {
+            "name": "multi_injectable_generator",
+            "latest": {
+                "version": "1.0.0",
+                "pubspec": {
+                    "name": "multi_injectable_generator",
+                    "description": "Injectable is a convenient code generator for get_it. Inspired by Angular DI, Guice DI and inject.dart.",
+                    "version": "1.0.0",
+                    "homepage": "https://github.com/ldhdev916/multi_injectable_generator",
+                    "environment": {
+                        "sdk": ">=2.12.0 <3.0.0"
+                    },
+                    "dependencies": {
+                        "build": "^2.1.0",
+                        "source_gen": "^1.1.0",
+                        "path": "^1.8.0",
+                        "glob": "^2.0.1",
+                        "analyzer": ">=4.6.0 <6.0.0",
+                        "code_builder": "^4.1.0",
+                        "dart_style": "^2.0.3",
+                        "injectable": "^1.5.4",
+                        "collection": "^1.15.0"
+                    },
+                    "dev_dependencies": {
+                        "build_runner": "^2.1.2",
+                        "build_test": "^2.1.3",
+                        "test": "^1.17.12"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/multi_injectable_generator/versions/1.0.0.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/multi_injectable_generator",
+                "url": "https://pub.dartlang.org/api/packages/multi_injectable_generator/versions/1.0.0"
+            }
+        },
+        {
+            "name": "overlay_support",
+            "latest": {
+                "version": "2.1.0",
+                "pubspec": {
+                    "name": "overlay_support",
+                    "description": "provider support for overlay, easy to build toast and internal notification",
+                    "version": "2.1.0",
+                    "homepage": "https://github.com/boyan01/overlay_support",
+                    "environment": {
+                        "sdk": ">=2.14.0 <3.0.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "async": "^2.8.2"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "lints": "^2.0.0"
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/overlay_support/versions/2.1.0.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/overlay_support",
+                "url": "https://pub.dartlang.org/api/packages/overlay_support/versions/2.1.0"
+            }
+        },
+        {
+            "name": "flutter_branch_sdk",
+            "latest": {
+                "version": "6.3.0",
+                "pubspec": {
+                    "name": "flutter_branch_sdk",
+                    "description": "Flutter Plugin for create deep link using Brach SDK (https://branch.io). This plugin provides a cross-platform (iOS, Android, Web).",
+                    "version": "6.3.0",
+                    "homepage": "https://github.com/RodrigoSMarques/flutter_branch_sdk",
+                    "environment": {
+                        "sdk": ">=2.17.3 <3.0.0",
+                        "flutter": ">=2.5.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_web_plugins": {
+                            "sdk": "flutter"
+                        },
+                        "plugin_platform_interface": "^2.1.2",
+                        "js": "^0.6.4"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.0"
+                    },
+                    "flutter": {
+                        "plugin": {
+                            "platforms": {
+                                "android": {
+                                    "package": "br.com.rsmarques.flutter_branch_sdk",
+                                    "pluginClass": "FlutterBranchSdkPlugin"
+                                },
+                                "ios": {
+                                    "pluginClass": "FlutterBranchSdkPlugin"
+                                },
+                                "web": {
+                                    "pluginClass": "FlutterBranchSdkWeb",
+                                    "fileName": "src/flutter_branch_sdk_web.dart"
+                                }
+                            }
+                        }
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/flutter_branch_sdk/versions/6.3.0.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/flutter_branch_sdk",
+                "url": "https://pub.dartlang.org/api/packages/flutter_branch_sdk/versions/6.3.0"
+            }
+        },
+        {
+            "name": "st_widgets",
+            "latest": {
+                "version": "0.0.2",
+                "pubspec": {
+                    "name": "st_widgets",
+                    "description": "一些组件",
+                    "version": "0.0.2",
+                    "homepage": "https://github.com/pheromone/st_widgets",
+                    "environment": {
+                        "sdk": ">=2.18.2 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.0"
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/st_widgets/versions/0.0.2.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/st_widgets",
+                "url": "https://pub.dartlang.org/api/packages/st_widgets/versions/0.0.2"
+            }
+        },
+        {
+            "name": "country_ip",
+            "latest": {
+                "version": "1.0.0",
+                "pubspec": {
+                    "name": "country_ip",
+                    "description": "Package to find users' country from their IP",
+                    "version": "1.0.0",
+                    "homepage": "https://github.com/NirmalAriyathilake/country_ip",
+                    "environment": {
+                        "sdk": ">=2.18.4 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "http": "^0.13.5"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.0"
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/country_ip/versions/1.0.0.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/country_ip",
+                "url": "https://pub.dartlang.org/api/packages/country_ip/versions/1.0.0"
+            }
+        },
+        {
+            "name": "mason_logger",
+            "latest": {
+                "version": "0.2.3",
+                "pubspec": {
+                    "name": "mason_logger",
+                    "description": "A reusable Dart logger used by the Mason CLI (package:mason_cli).",
+                    "version": "0.2.3",
+                    "homepage": "https://github.com/felangel/mason",
+                    "repository": "https://github.com/felangel/mason",
+                    "issue_tracker": "https://github.com/felangel/mason/issues",
+                    "documentation": "https://github.com/felangel/mason/tree/master/packages/mason_logger#readme",
+                    "environment": {
+                        "sdk": ">=2.16.0 <3.0.0"
+                    },
+                    "dev_dependencies": {
+                        "meta": "^1.7.0",
+                        "mocktail": "^0.3.0",
+                        "test": "^1.19.0",
+                        "very_good_analysis": "^2.4.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/mason_logger/versions/0.2.3.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/mason_logger",
+                "url": "https://pub.dartlang.org/api/packages/mason_logger/versions/0.2.3"
+            }
+        },
+        {
+            "name": "jovial_svg",
+            "latest": {
+                "version": "1.1.6",
+                "pubspec": {
+                    "name": "jovial_svg",
+                    "description": "SVG - Robust rendering of Scalable Vector Graphic images, supporting a well-defined profile of SVG and a fast-loading binary storage format.",
+                    "version": "1.1.6",
+                    "homepage": "https://bill.jovial.com/",
+                    "environment": {
+                        "sdk": ">=2.17.0 <3.0.0",
+                        "flutter": ">=3.0.0"
+                    },
+                    "dependencies": {
+                        "xml": "^6.0.1",
+                        "collection": "^1.15.0",
+                        "args": "^2.0.0",
+                        "vector_math": "^2.1.0",
+                        "jovial_misc": "^0.8.0",
+                        "http": "^0.13.0",
+                        "meta": "^1.7.0",
+                        "flutter": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "dev_dependencies": {
+                        "flutter_lints": "^2.0.0",
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "executables": {
+                        "avd_to_si": null,
+                        "svg_to_si": null
+                    },
+                    "repository": "https://github.com/zathras/jovial_svg",
+                    "issues": "https://github.com/zathras/jovial_svg/issues",
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/jovial_svg/versions/1.1.6.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/jovial_svg",
+                "url": "https://pub.dartlang.org/api/packages/jovial_svg/versions/1.1.6"
+            }
+        },
+        {
+            "name": "dynamic_service",
+            "latest": {
+                "version": "1.0.0",
+                "pubspec": {
+                    "name": "dynamic_service",
+                    "description": "A Dart based service for handling dynamic requests and responses",
+                    "homepage": "https://github.com/peiffer-innovations/dynamic_service",
+                    "version": "1.0.0",
+                    "environment": {
+                        "sdk": ">=2.18.0 <3.0.0"
+                    },
+                    "dependencies": {
+                        "collection": "^1.16.0",
+                        "crypto": "^3.0.1",
+                        "encrypt": "^5.0.1",
+                        "http": "^0.13.5",
+                        "intl": "^0.17.0",
+                        "jose": "^0.3.3",
+                        "json_class": "^2.1.2+13",
+                        "json_path": "^0.4.2",
+                        "json_schema2": "^2.0.2+17",
+                        "latlong2": "^0.8.1",
+                        "logging": "^1.1.0",
+                        "meta": "^1.7.0",
+                        "mime": "^1.0.2",
+                        "rest_client": "^2.2.0+2",
+                        "shelf": "^1.4.0",
+                        "template_expressions": "^2.0.0",
+                        "uuid": "^3.0.6",
+                        "x509": "^0.2.2",
+                        "yaon": "^1.0.1+7"
+                    },
+                    "dev_dependencies": {
+                        "args": "^2.3.1",
+                        "build_runner": "^2.3.2",
+                        "dependency_validator": "^3.2.2",
+                        "test": "^1.22.0",
+                        "test_process": "^2.0.3"
+                    },
+                    "false_secrets": [
+                        "example/server/assets/keys/privateKey.pem"
+                    ],
+                    "ignore_updates": [
+                        "archive",
+                        "async",
+                        "boolean_selector",
+                        "characters",
+                        "charcode",
+                        "collection",
+                        "clock",
+                        "crypto",
+                        "fake_async",
+                        "file",
+                        "matcher",
+                        "material_color_utilities",
+                        "meta",
+                        "path",
+                        "source_span",
+                        "stack_trace",
+                        "stream_channel",
+                        "string_scanner",
+                        "sync_http",
+                        "term_glyph",
+                        "test_api",
+                        "typed_data",
+                        "vector_math",
+                        "webdriver"
+                    ]
+                },
+                "archive_url": "https://pub.dartlang.org/packages/dynamic_service/versions/1.0.0.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/dynamic_service",
+                "url": "https://pub.dartlang.org/api/packages/dynamic_service/versions/1.0.0"
+            }
+        },
+        {
+            "name": "puro",
+            "latest": {
+                "version": "1.1.1",
+                "pubspec": {
+                    "name": "puro",
+                    "description": "An experimental tool for managing Flutter versions.",
+                    "version": "1.1.1",
+                    "repository": "https://github.com/PixelToast/puro",
+                    "homepage": "https://puro.dev",
+                    "executables": {
+                        "puro": "puro"
+                    },
+                    "environment": {
+                        "sdk": ">=2.17.0 <3.0.0"
+                    },
+                    "dependencies": {
+                        "args": "^2.3.1",
+                        "async": "^2.9.0",
+                        "clock": "^1.1.1",
+                        "file": "^6.1.4",
+                        "freezed_annotation": "^2.1.0",
+                        "http": "^0.13.5",
+                        "json_annotation": "^4.7.0",
+                        "meta": "^1.8.0",
+                        "mutex": "^3.0.0",
+                        "neoansi": "^0.3.2+1",
+                        "path": "^1.8.2",
+                        "petitparser": "^5.0.0",
+                        "process": "^4.2.4",
+                        "protobuf": "^2.1.0",
+                        "pub_semver": "^2.1.1",
+                        "rxdart": "^0.27.5",
+                        "stack_trace": "^1.10.0",
+                        "typed_data": "^1.3.1",
+                        "xml": "^6.1.0",
+                        "yaml": "^3.1.1",
+                        "yaml_edit": "^2.0.3"
+                    },
+                    "dev_dependencies": {
+                        "build_runner": "^2.2.1",
+                        "freezed": "^2.1.1",
+                        "json_serializable": "^6.4.1",
+                        "lints": "^2.0.0",
+                        "test": "^1.16.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/puro/versions/1.1.1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/puro",
+                "url": "https://pub.dartlang.org/api/packages/puro/versions/1.1.1"
+            }
+        },
+        {
+            "name": "markdown_docs_flutter",
+            "latest": {
+                "version": "1.0.0-dev.1",
+                "pubspec": {
+                    "name": "markdown_docs_flutter",
+                    "description": "Creates flutter widgets from markdown text.",
+                    "version": "1.0.0-dev.1",
+                    "environment": {
+                        "sdk": ">=2.18.0 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/markdown_docs_flutter/versions/1.0.0-dev.1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/markdown_docs_flutter",
+                "url": "https://pub.dartlang.org/api/packages/markdown_docs_flutter/versions/1.0.0-dev.1"
+            }
+        },
+        {
+            "name": "markdown_docs",
+            "latest": {
+                "version": "1.0.0-dev.1",
+                "pubspec": {
+                    "name": "markdown_docs",
+                    "description": "Markdown code generation for flutter.",
+                    "version": "1.0.0-dev.1",
+                    "environment": {
+                        "sdk": ">=2.18.0 <3.0.0"
+                    },
+                    "dev_dependencies": {
+                        "lints": "^2.0.0",
+                        "test": "^1.16.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/markdown_docs/versions/1.0.0-dev.1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/markdown_docs",
+                "url": "https://pub.dartlang.org/api/packages/markdown_docs/versions/1.0.0-dev.1"
+            }
+        },
+        {
+            "name": "binarize",
+            "latest": {
+                "version": "1.3.1",
+                "pubspec": {
+                    "name": "binarize",
+                    "description": "Binarize allows for a more streamlined and extendable binary creation experience.",
+                    "version": "1.3.1",
+                    "repository": "https://gitlab.com/wolfenrain/binarize",
+                    "issue_tracker": "https://gitlab.com/wolfenrain/binarize/-/issues",
+                    "environment": {
+                        "sdk": ">=2.12.0 <3.0.0"
+                    },
+                    "dev_dependencies": {
+                        "test": "^1.21.6",
+                        "very_good_analysis": "^3.1.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/binarize/versions/1.3.1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/binarize",
+                "url": "https://pub.dartlang.org/api/packages/binarize/versions/1.3.1"
+            }
+        },
+        {
+            "name": "mink_utils",
+            "latest": {
+                "version": "0.0.2",
+                "pubspec": {
+                    "name": "mink_utils",
+                    "description": "A collection of helper functions mainly for woking with iterables and time",
+                    "version": "0.0.2",
+                    "homepage": "https://github.com/minktec/mink_utils",
+                    "environment": {
+                        "sdk": ">=2.18.2 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "tuple": "^2.0.1",
+                        "collection": "^1.16.0"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.0"
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/mink_utils/versions/0.0.2.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/mink_utils",
+                "url": "https://pub.dartlang.org/api/packages/mink_utils/versions/0.0.2"
+            }
+        },
+        {
+            "name": "phone_number_mask",
+            "latest": {
+                "version": "1.0.4",
+                "pubspec": {
+                    "name": "phone_number_mask",
+                    "description": "Dart package of simple parsing of phone numbers and various masking options.",
+                    "version": "1.0.4",
+                    "repository": "https://github.com/ivangalkindeveloper/phone_number_mask",
+                    "environment": {
+                        "sdk": ">=2.18.4 <3.0.0"
+                    },
+                    "dependencies": {
+                        "collection": "^1.17.0"
+                    },
+                    "dev_dependencies": {
+                        "test": "^1.16.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/phone_number_mask/versions/1.0.4.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/phone_number_mask",
+                "url": "https://pub.dartlang.org/api/packages/phone_number_mask/versions/1.0.4"
+            }
+        },
+        {
+            "name": "mason_cli",
+            "latest": {
+                "version": "0.1.0-dev.39",
+                "pubspec": {
+                    "name": "mason_cli",
+                    "description": "Mason CLI allows developers to create and consume reusable templates called bricks.\n",
+                    "version": "0.1.0-dev.39",
+                    "homepage": "https://github.com/felangel/mason",
+                    "repository": "https://github.com/felangel/mason",
+                    "issue_tracker": "https://github.com/felangel/mason/issues",
+                    "documentation": "https://github.com/felangel/mason/tree/master/packages/mason_cli#readme",
+                    "environment": {
+                        "sdk": ">=2.16.0 <3.0.0"
+                    },
+                    "dependencies": {
+                        "args": "^2.1.0",
+                        "checked_yaml": "^2.0.1",
+                        "mason": "^0.1.0-dev.38",
+                        "mason_api": "^0.1.0-dev.8",
+                        "meta": "^1.7.0",
+                        "path": "^1.8.0",
+                        "pub_updater": "^0.2.2",
+                        "recase": "^4.0.0"
+                    },
+                    "dev_dependencies": {
+                        "build_runner": "^2.0.0",
+                        "build_verify": "^3.0.0",
+                        "build_version": "^2.0.0",
+                        "collection": "^1.15.0",
+                        "mocktail": "^0.3.0",
+                        "test": "^1.17.0",
+                        "very_good_analysis": "^2.4.0"
+                    },
+                    "executables": {
+                        "mason": null
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/mason_cli/versions/0.1.0-dev.39.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/mason_cli",
+                "url": "https://pub.dartlang.org/api/packages/mason_cli/versions/0.1.0-dev.39"
+            }
+        },
+        {
+            "name": "stream_bloc",
+            "latest": {
+                "version": "0.5.3",
+                "pubspec": {
+                    "name": "stream_bloc",
+                    "description": "Modern implementation of the Original BLoC that uses asynchronous generators to describe relationships between events and states.",
+                    "version": "0.5.3",
+                    "repository": "https://github.com/purplenoodlesoop/stream-bloc",
+                    "issue_tracker": "https://github.com/purplenoodlesoop/stream-bloc/issues",
+                    "homepage": "https://github.com/purplenoodlesoop/stream-bloc",
+                    "documentation": "https://github.com/purplenoodlesoop/stream-bloc/blob/master/README.md",
+                    "environment": {
+                        "sdk": ">=2.12.0 <3.0.0"
+                    },
+                    "dependencies": {
+                        "meta": "^1.8.0",
+                        "bloc": "^8.1.0"
+                    },
+                    "dev_dependencies": {
+                        "test": "^1.21.1",
+                        "purple_lints": "^0.2.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/stream_bloc/versions/0.5.3.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/stream_bloc",
+                "url": "https://pub.dartlang.org/api/packages/stream_bloc/versions/0.5.3"
+            }
+        },
+        {
+            "name": "slang_build_runner",
+            "latest": {
+                "version": "3.4.0",
+                "pubspec": {
+                    "name": "slang_build_runner",
+                    "description": "build_runner integration for slang. This library ensures that slang is recognized by build_runner.",
+                    "version": "3.4.0",
+                    "repository": "https://github.com/Tienisto/slang",
+                    "environment": {
+                        "sdk": ">=2.17.0 <3.0.0"
+                    },
+                    "dependencies": {
+                        "build": "^2.2.1",
+                        "glob": "^2.0.2",
+                        "slang": ">=3.4.0 <3.5.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/slang_build_runner/versions/3.4.0.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/slang_build_runner",
+                "url": "https://pub.dartlang.org/api/packages/slang_build_runner/versions/3.4.0"
+            }
+        },
+        {
+            "name": "slang_flutter",
+            "latest": {
+                "version": "3.4.0",
+                "pubspec": {
+                    "name": "slang_flutter",
+                    "description": "Flutter support for slang. This library provides helpful Flutter API.",
+                    "version": "3.4.0",
+                    "repository": "https://github.com/Tienisto/slang",
+                    "environment": {
+                        "sdk": ">=2.17.0 <3.0.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "slang": ">=3.4.0 <3.5.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/slang_flutter/versions/3.4.0.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/slang_flutter",
+                "url": "https://pub.dartlang.org/api/packages/slang_flutter/versions/3.4.0"
+            }
+        },
+        {
+            "name": "mason",
+            "latest": {
+                "version": "0.1.0-dev.38",
+                "pubspec": {
+                    "name": "mason",
+                    "description": "A Dart template generator which helps teams generate files quickly and consistently.\n",
+                    "version": "0.1.0-dev.38",
+                    "homepage": "https://github.com/felangel/mason",
+                    "repository": "https://github.com/felangel/mason",
+                    "issue_tracker": "https://github.com/felangel/mason/issues",
+                    "documentation": "https://github.com/felangel/mason/tree/master/packages/mason_cli#readme",
+                    "environment": {
+                        "sdk": ">=2.16.0 <3.0.0"
+                    },
+                    "dependencies": {
+                        "archive": "^3.1.11",
+                        "checked_yaml": "^2.0.1",
+                        "collection": "^1.15.0",
+                        "crypto": "^3.0.1",
+                        "http": "^0.13.3",
+                        "json_annotation": "^4.4.0",
+                        "mason_logger": "^0.2.2",
+                        "meta": "^1.7.0",
+                        "mustache_template": "^2.0.0",
+                        "path": "^1.8.0",
+                        "pool": "^1.5.1",
+                        "pub_semver": "^2.1.0",
+                        "recase": "^4.0.0",
+                        "yaml": "^3.1.0"
+                    },
+                    "dev_dependencies": {
+                        "build_runner": "^2.0.0",
+                        "build_verify": "^3.0.0",
+                        "build_version": "^2.0.0",
+                        "json_serializable": "^6.0.0",
+                        "mocktail": "^0.3.0",
+                        "test": "^1.17.0",
+                        "very_good_analysis": "^2.4.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/mason/versions/0.1.0-dev.38.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/mason",
+                "url": "https://pub.dartlang.org/api/packages/mason/versions/0.1.0-dev.38"
+            }
+        },
+        {
+            "name": "slang",
+            "latest": {
+                "version": "3.4.0",
+                "pubspec": {
+                    "name": "slang",
+                    "description": "Localization / Internationalization (i18n) solution. Use JSON, YAML or CSV files to create typesafe translations via source generation.",
+                    "version": "3.4.0",
+                    "repository": "https://github.com/Tienisto/slang",
+                    "environment": {
+                        "sdk": ">=2.17.0 <3.0.0"
+                    },
+                    "dependencies": {
+                        "collection": "^1.15.0",
+                        "csv": "^5.0.1",
+                        "yaml": "^3.1.0",
+                        "json2yaml": "^3.0.0"
+                    },
+                    "dev_dependencies": {
+                        "lints": "^2.0.0",
+                        "test": "^1.21.1"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/slang/versions/3.4.0.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/slang",
+                "url": "https://pub.dartlang.org/api/packages/slang/versions/3.4.0"
+            }
+        },
+        {
+            "name": "flutter_tts",
+            "latest": {
+                "version": "3.6.1",
+                "pubspec": {
+                    "name": "flutter_tts",
+                    "description": "A flutter plugin for Text to Speech.  This plugin is supported on iOS, Android, Web, & macOS.",
+                    "version": "3.6.1",
+                    "homepage": "https://github.com/dlutton/flutter_tts",
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_web_plugins": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "flutter": {
+                        "plugin": {
+                            "platforms": {
+                                "android": {
+                                    "package": "com.tundralabs.fluttertts",
+                                    "pluginClass": "FlutterTtsPlugin"
+                                },
+                                "ios": {
+                                    "pluginClass": "FlutterTtsPlugin"
+                                },
+                                "macos": {
+                                    "pluginClass": "FlutterTtsPlugin"
+                                },
+                                "windows": {
+                                    "pluginClass": "FlutterTtsPlugin",
+                                    "supportedVariants": [
+                                        "uwp",
+                                        "win32"
+                                    ]
+                                },
+                                "web": {
+                                    "pluginClass": "FlutterTtsPlugin",
+                                    "fileName": "flutter_tts_web.dart"
+                                }
+                            }
+                        }
+                    },
+                    "environment": {
+                        "sdk": ">=2.12.0-0 <3.0.0",
+                        "flutter": ">=1.22.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/flutter_tts/versions/3.6.1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/flutter_tts",
+                "url": "https://pub.dartlang.org/api/packages/flutter_tts/versions/3.6.1"
+            }
+        },
+        {
+            "name": "tool_network",
+            "latest": {
+                "version": "0.0.2",
+                "pubspec": {
+                    "name": "tool_network",
+                    "description": "Contains base network classes",
+                    "homepage": "https://gitlab.com/debertz/game-flutter/-/blob/development/tools/tool_network",
+                    "version": "0.0.2",
+                    "environment": {
+                        "sdk": ">=2.18.4 <3.0.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "freezed_annotation": "^2.2.0",
+                        "json_annotation": "^4.7.0",
+                        "synchronized": "^3.0.0+3",
+                        "rxdart": "^0.27.6",
+                        "get_it": "^7.2.0",
+                        "flutter_cache_manager": "^3.3.0",
+                        "dio": "^4.0.6",
+                        "pretty_dio_logger": "^1.1.1",
+                        "curl_logger_dio_interceptor": "^0.0.3",
+                        "connectivity_plus": "^3.0.2",
+                        "tool_result": "^0.0.2",
+                        "tool_utils": "^0.0.3",
+                        "tool_arch": "^0.0.5",
+                        "tool_app_info": "^0.0.1"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "build_runner": "^2.3.2",
+                        "freezed": "^2.2.1",
+                        "json_serializable": "^6.5.4"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/tool_network/versions/0.0.2.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/tool_network",
+                "url": "https://pub.dartlang.org/api/packages/tool_network/versions/0.0.2"
+            }
+        },
+        {
+            "name": "drishya_picker",
+            "latest": {
+                "version": "2.0.0",
+                "pubspec": {
+                    "name": "drishya_picker",
+                    "description": "Assets picker which is inspired by messenger camera and gallery.",
+                    "version": "2.0.0",
+                    "homepage": "https://github.com/koiralapankaj7/drishya_picker",
+                    "environment": {
+                        "sdk": ">=2.17.6 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "camera": "^0.10.0+4",
+                        "collection": "^1.16.0",
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "meta": "^1.8.0",
+                        "path": "^1.8.2",
+                        "photo_manager": "^2.5.0",
+                        "uuid": "^3.0.6"
+                    },
+                    "dev_dependencies": {
+                        "very_good_analysis": "^3.1.0"
+                    },
+                    "flutter": {
+                        "uses-material-design": true,
+                        "assets": [
+                            "lib/assets/camera.png"
+                        ],
+                        "fonts": [{
+                            "family": "CustomIcons",
+                            "fonts": [{
+                                "asset": "lib/assets/fonts/CustomIcons.ttf"
+                            }]
+                        }]
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/drishya_picker/versions/2.0.0.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/drishya_picker",
+                "url": "https://pub.dartlang.org/api/packages/drishya_picker/versions/2.0.0"
+            }
+        },
+        {
+            "name": "kassakuitti",
+            "latest": {
+                "version": "0.1.3",
+                "pubspec": {
+                    "name": "kassakuitti",
+                    "description": "A Dart package for handling a cash receipt coming from S-kaupat or K-ruoka (two Finnish food online stores).",
+                    "version": "0.1.3",
+                    "repository": "https://github.com/areee/kassakuitti",
+                    "environment": {
+                        "sdk": ">=2.18.4 <3.0.0"
+                    },
+                    "dependencies": {
+                        "flutter_excel": "^1.0.1",
+                        "html": "^0.15.1",
+                        "intl": "^0.17.0",
+                        "mime": "^1.0.2",
+                        "path": "^1.8.2",
+                        "tuple": "^2.0.1"
+                    },
+                    "dev_dependencies": {
+                        "lints": "^2.0.1",
+                        "test": "^1.22.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/kassakuitti/versions/0.1.3.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/kassakuitti",
+                "url": "https://pub.dartlang.org/api/packages/kassakuitti/versions/0.1.3"
+            }
+        },
+        {
+            "name": "web_socket_channel_connect",
+            "latest": {
+                "version": "1.0.0",
+                "pubspec": {
+                    "name": "web_socket_channel_connect",
+                    "description": "A wrapper to connect websockets for the web_socket_channel package that gives an error on failure.",
+                    "homepage": "https://github.com/peiffer-innovations/web_socket_channel_connect",
+                    "version": "1.0.0",
+                    "environment": {
+                        "sdk": ">=2.18.0 <3.0.0"
+                    },
+                    "dependencies": {
+                        "web_socket_channel": "^2.2.0"
+                    },
+                    "dev_dependencies": {
+                        "test": "^1.22.0"
+                    },
+                    "ignore_updates": [
+                        "archive",
+                        "async",
+                        "boolean_selector",
+                        "characters",
+                        "charcode",
+                        "collection",
+                        "clock",
+                        "crypto",
+                        "fake_async",
+                        "file",
+                        "matcher",
+                        "material_color_utilities",
+                        "meta",
+                        "path",
+                        "source_span",
+                        "stack_trace",
+                        "stream_channel",
+                        "string_scanner",
+                        "sync_http",
+                        "term_glyph",
+                        "test_api",
+                        "typed_data",
+                        "vector_math",
+                        "webdriver"
+                    ]
+                },
+                "archive_url": "https://pub.dartlang.org/packages/web_socket_channel_connect/versions/1.0.0.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/web_socket_channel_connect",
+                "url": "https://pub.dartlang.org/api/packages/web_socket_channel_connect/versions/1.0.0"
+            }
+        },
+        {
+            "name": "gate_generator",
+            "latest": {
+                "version": "1.0.0",
+                "pubspec": {
+                    "name": "gate_generator",
+                    "description": "Dependency Injection generator for your flutter/dart applications. This uses annotations and build_runner.",
+                    "version": "1.0.0",
+                    "repository": "https://github.com/Apparence-io/gate",
+                    "environment": {
+                        "sdk": ">=2.17.0 <3.0.0"
+                    },
+                    "dependencies": {
+                        "analyzer": "^5.2.0",
+                        "build": "^2.3.1",
+                        "code_builder": "^4.3.0",
+                        "dart_style": "^2.2.4",
+                        "gate": "^1.0.0",
+                        "glob": "^2.1.1",
+                        "meta": "^1.8.0",
+                        "path": "^1.8.2",
+                        "quiver": "^3.1.0",
+                        "source_gen": "^1.2.6",
+                        "universal_io": "^2.0.4"
+                    },
+                    "dev_dependencies": {
+                        "build_runner": "^2.3.2",
+                        "build_test": "^2.1.5",
+                        "lints": "^2.0.1",
+                        "source_gen_test": "^1.0.4",
+                        "test": "^1.22.0",
+                        "mocktail": "^0.3.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/gate_generator/versions/1.0.0.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/gate_generator",
+                "url": "https://pub.dartlang.org/api/packages/gate_generator/versions/1.0.0"
+            }
+        },
+        {
+            "name": "json_theme",
+            "latest": {
+                "version": "4.0.3",
+                "pubspec": {
+                    "name": "json_theme",
+                    "description": "A library to dynamically generate a ThemeData object from a JSON file or dynamic map object",
+                    "homepage": "https://github.com/peiffer-innovations/json_theme",
+                    "version": "4.0.3",
+                    "environment": {
+                        "sdk": ">=2.17.0 <3.0.0"
+                    },
+                    "analyzer": {
+                        "exclude": [
+                            "lib/generated/**"
+                        ]
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "json_class": "^2.1.2+13",
+                        "json_schema2": "^2.0.2+17",
+                        "meta": "^1.7.0"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "ignore_updates": [
+                        "archive",
+                        "async",
+                        "boolean_selector",
+                        "characters",
+                        "charcode",
+                        "collection",
+                        "clock",
+                        "crypto",
+                        "fake_async",
+                        "file",
+                        "matcher",
+                        "material_color_utilities",
+                        "meta",
+                        "path",
+                        "source_span",
+                        "stack_trace",
+                        "stream_channel",
+                        "string_scanner",
+                        "sync_http",
+                        "term_glyph",
+                        "test_api",
+                        "typed_data",
+                        "vector_math",
+                        "webdriver"
+                    ]
+                },
+                "archive_url": "https://pub.dartlang.org/packages/json_theme/versions/4.0.3.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/json_theme",
+                "url": "https://pub.dartlang.org/api/packages/json_theme/versions/4.0.3"
+            }
+        },
+        {
+            "name": "drop_shadow",
+            "latest": {
+                "version": "0.0.2+1",
+                "pubspec": {
+                    "name": "drop_shadow",
+                    "description": "Add highly customizable drop shadow effect for any widgets in flutter",
+                    "version": "0.0.2+1",
+                    "repository": "https://github.com/iisprey/drop_shadow",
+                    "environment": {
+                        "sdk": ">=2.18.4 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "dev_dependencies": {
+                        "very_good_analysis": "^3.1.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/drop_shadow/versions/0.0.2%2B1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/drop_shadow",
+                "url": "https://pub.dartlang.org/api/packages/drop_shadow/versions/0.0.2%2B1"
+            }
+        },
+        {
+            "name": "tool_app_info",
+            "latest": {
+                "version": "0.0.1",
+                "pubspec": {
+                    "name": "tool_app_info",
+                    "description": "Contains app info",
+                    "version": "0.0.1",
+                    "homepage": "https://gitlab.com/debertz/game-flutter/-/blob/development/tools/tool_app_info/README.md",
+                    "environment": {
+                        "sdk": ">=2.18.4 <3.0.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "get_it": "^7.2.0",
+                        "tuple": "^2.0.1",
+                        "rxdart": "^0.27.6",
+                        "uuid": "^3.0.6",
+                        "tool_storage": "^0.0.1",
+                        "package_info_plus": "^3.0.1",
+                        "device_info_plus": "^8.0.0",
+                        "android_id": "^0.1.3+1",
+                        "universal_io": "^2.0.4"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "build_runner": "^2.3.2"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/tool_app_info/versions/0.0.1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/tool_app_info",
+                "url": "https://pub.dartlang.org/api/packages/tool_app_info/versions/0.0.1"
+            }
+        },
+        {
+            "name": "template_expressions",
+            "latest": {
+                "version": "2.0.0",
+                "pubspec": {
+                    "name": "template_expressions",
+                    "description": "A Dart library to process string based templates using expressions.",
+                    "homepage": "https://github.com/peiffer-innovations/template_expressions",
+                    "version": "2.0.0",
+                    "environment": {
+                        "sdk": ">=2.17.0 <3.0.0"
+                    },
+                    "dependencies": {
+                        "convert": "^3.1.1",
+                        "crypto": "^3.0.1",
+                        "encrypt": "^5.0.1",
+                        "fake_async": "^1.3.0",
+                        "intl": "^0.17.0",
+                        "json_class": "^2.1.2+13",
+                        "json_path": ">=0.3.0 <0.5.0",
+                        "logging": "^1.1.0",
+                        "meta": "^1.7.0",
+                        "petitparser": "^5.1.0",
+                        "pointycastle": "^3.6.2",
+                        "quiver": "^3.1.0",
+                        "rxdart": "^0.27.5",
+                        "yaon": "^1.0.1+7"
+                    },
+                    "dev_dependencies": {
+                        "test": "^1.22.0"
+                    },
+                    "ignore_updates": [
+                        "archive",
+                        "async",
+                        "boolean_selector",
+                        "characters",
+                        "charcode",
+                        "collection",
+                        "clock",
+                        "crypto",
+                        "fake_async",
+                        "file",
+                        "matcher",
+                        "material_color_utilities",
+                        "meta",
+                        "path",
+                        "source_span",
+                        "stack_trace",
+                        "stream_channel",
+                        "string_scanner",
+                        "sync_http",
+                        "term_glyph",
+                        "test_api",
+                        "typed_data",
+                        "vector_math",
+                        "webdriver"
+                    ]
+                },
+                "archive_url": "https://pub.dartlang.org/packages/template_expressions/versions/2.0.0.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/template_expressions",
+                "url": "https://pub.dartlang.org/api/packages/template_expressions/versions/2.0.0"
+            }
+        },
+        {
+            "name": "clever_logger",
+            "latest": {
+                "version": "1.0.0+1",
+                "pubspec": {
+                    "name": "clever_logger",
+                    "description": "An extendable logger library with colorful prints.",
+                    "version": "1.0.0+1",
+                    "repository": "https://github.com/RoundedInfinity/clever_logger",
+                    "environment": {
+                        "sdk": ">=2.18.0 <3.0.0"
+                    },
+                    "dev_dependencies": {
+                        "mocktail": "^0.3.0",
+                        "test": "^1.19.2",
+                        "very_good_analysis": "^3.1.0"
+                    },
+                    "dependencies": {
+                        "ansicolor": "^2.0.1",
+                        "logging": "^1.1.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/clever_logger/versions/1.0.0%2B1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/clever_logger",
+                "url": "https://pub.dartlang.org/api/packages/clever_logger/versions/1.0.0%2B1"
+            }
+        },
+        {
+            "name": "tool_utils",
+            "latest": {
+                "version": "0.0.3",
+                "pubspec": {
+                    "name": "tool_utils",
+                    "description": "Contains utils",
+                    "version": "0.0.3",
+                    "homepage": "https://gitlab.com/debertz/game-flutter/-/blob/development/tools/tool_utils/README.md",
+                    "environment": {
+                        "sdk": ">=2.18.4 <3.0.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "get_it": "^7.2.0",
+                        "tuple": "^2.0.1",
+                        "rxdart": "^0.27.6",
+                        "synchronized": "^3.0.0+3",
+                        "path_provider": "^2.0.11",
+                        "flutter_archive": "^5.0.0"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "build_runner": "^2.3.2"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/tool_utils/versions/0.0.3.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/tool_utils",
+                "url": "https://pub.dartlang.org/api/packages/tool_utils/versions/0.0.3"
+            }
+        },
+        {
+            "name": "dartle",
+            "latest": {
+                "version": "0.17.0",
+                "pubspec": {
+                    "name": "dartle",
+                    "description": "A simple build system written in Dart. Tasks can be declared in a regular Dart file, or Dart applications can use this package to create their own build systems.\n",
+                    "version": "0.17.0",
+                    "homepage": "https://github.com/renatoathaydes/dartle",
+                    "environment": {
+                        "sdk": ">=2.15.0 <3.0.0"
+                    },
+                    "dependencies": {
+                        "args": "^2.0.0",
+                        "meta": "^1.3.0",
+                        "freezed_annotation": "^2.1.0",
+                        "io": "^1.0.0",
+                        "logging": "^1.0.0",
+                        "crypto": "^3.0.0",
+                        "path": "^1.8.0",
+                        "collection": "^1.15.0",
+                        "actors": "^0.8.0",
+                        "structured_async": "^0.3.0",
+                        "clock": "^1.1.0",
+                        "file": "^6.1.0",
+                        "test_report_parser": "^1.1.0",
+                        "convert": "^3.0.2",
+                        "yaml": "^3.1.0"
+                    },
+                    "dev_dependencies": {
+                        "test": "^1.16.8",
+                        "lints": "^2.0.1",
+                        "build_runner": "^2.2.0",
+                        "freezed": "^2.1.0+1"
+                    },
+                    "executables": {
+                        "dartle": null
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/dartle/versions/0.17.0.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/dartle",
+                "url": "https://pub.dartlang.org/api/packages/dartle/versions/0.17.0"
+            }
+        },
+        {
+            "name": "delete_un_used_assets",
+            "latest": {
+                "version": "1.0.1",
+                "pubspec": {
+                    "name": "delete_un_used_assets",
+                    "description": "A command line tool to delete un used assets",
+                    "version": "1.0.1",
+                    "repository": "https://github.com/MohamedAlwhaidi/delete_unused_assets.git",
+                    "environment": {
+                        "sdk": ">=2.17.1 <3.0.0"
+                    },
+                    "dependencies": {
+                        "path": "^1.8.0",
+                        "collection": "^1.15.0"
+                    },
+                    "dev_dependencies": {
+                        "lints": "^2.0.0",
+                        "test": "^1.16.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/delete_un_used_assets/versions/1.0.1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/delete_un_used_assets",
+                "url": "https://pub.dartlang.org/api/packages/delete_un_used_assets/versions/1.0.1"
+            }
+        },
+        {
+            "name": "davi",
+            "latest": {
+                "version": "0.0.1",
+                "pubspec": {
+                    "name": "davi",
+                    "description": "Data grid",
+                    "version": "0.0.1",
+                    "repository": "https://github.com/caduandrade/davi_flutter",
+                    "environment": {
+                        "sdk": ">=2.18.4 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.0"
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/davi/versions/0.0.1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/davi",
+                "url": "https://pub.dartlang.org/api/packages/davi/versions/0.0.1"
+            }
+        },
+        {
+            "name": "flutter_quill",
+            "latest": {
+                "version": "6.1.5",
+                "pubspec": {
+                    "name": "flutter_quill",
+                    "description": "A rich text editor supporting mobile and web (Demo App @ bulletjournal.us)",
+                    "version": "6.1.5",
+                    "homepage": "https://bulletjournal.us/home/index.html",
+                    "repository": "https://github.com/singerdmx/flutter-quill",
+                    "environment": {
+                        "sdk": ">=2.12.0 <3.0.0",
+                        "flutter": ">=3.0.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "collection": "^1.16.0",
+                        "flutter_colorpicker": "^1.0.3",
+                        "flutter_keyboard_visibility": "^5.2.0",
+                        "quiver": "^3.1.0",
+                        "tuple": "^2.0.0",
+                        "url_launcher": "^6.1.2",
+                        "pedantic": "^1.11.1",
+                        "characters": "^1.2.0",
+                        "diff_match_patch": "^0.4.1",
+                        "i18n_extension": "^5.0.1",
+                        "device_info_plus": "^7.0.0",
+                        "platform": "^3.1.0",
+                        "pasteboard": "^0.2.0"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/flutter_quill/versions/6.1.5.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/flutter_quill",
+                "url": "https://pub.dartlang.org/api/packages/flutter_quill/versions/6.1.5"
+            }
+        },
+        {
+            "name": "validation_chain",
+            "latest": {
+                "version": "0.0.11",
+                "pubspec": {
+                    "name": "validation_chain",
+                    "description": "ValidationChain, SanitizationChain, MapValidator, MapSanitizer, Sanitizable interface.",
+                    "version": "0.0.11",
+                    "homepage": "https://github.com/Pr47h4m/validation_chain",
+                    "repository": "https://github.com/Pr47h4m/validation_chain",
+                    "issue_tracker": "https://github.com/Pr47h4m/validation_chain/issues",
+                    "funding": [
+                        "https://www.buymeacoffee.com/pr47h4m"
+                    ],
+                    "environment": {
+                        "sdk": ">=2.14.0 <3.0.0"
+                    },
+                    "dev_dependencies": {
+                        "lints": "^2.0.0",
+                        "test": "^1.16.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/validation_chain/versions/0.0.11.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/validation_chain",
+                "url": "https://pub.dartlang.org/api/packages/validation_chain/versions/0.0.11"
+            }
+        },
+        {
+            "name": "automated_testing_framework",
+            "latest": {
+                "version": "4.0.7+6",
+                "pubspec": {
+                    "name": "automated_testing_framework",
+                    "description": "A testing framework that allows in app tests to be built and executed in an automated way.",
+                    "version": "4.0.7+6",
+                    "homepage": "https://github.com/peiffer-innovations/automated_testing_framework",
+                    "environment": {
+                        "sdk": ">=2.17.0 <3.0.0"
+                    },
+                    "dependencies": {
+                        "automated_testing_framework_models": "^2.0.9+11",
+                        "child_builder": "^2.0.0+3",
+                        "convert": "^3.1.1",
+                        "device_info_plus": "^8.0.0",
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_markdown": "^0.6.13",
+                        "flutter_web_plugins": {
+                            "sdk": "flutter"
+                        },
+                        "form_validation": "^2.1.0+22",
+                        "intl": "^0.17.0",
+                        "json_class": "^2.1.2+13",
+                        "json_theme": "^4.0.2+3",
+                        "logging": "^1.1.0",
+                        "meta": "^1.7.0",
+                        "package_info_plus": "^3.0.1",
+                        "provider": "^6.0.4",
+                        "static_translations": "^2.1.1+16",
+                        "uuid": "^3.0.6"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "ignore_updates": [
+                        "archive",
+                        "async",
+                        "boolean_selector",
+                        "characters",
+                        "charcode",
+                        "collection",
+                        "clock",
+                        "crypto",
+                        "fake_async",
+                        "file",
+                        "matcher",
+                        "material_color_utilities",
+                        "meta",
+                        "path",
+                        "source_span",
+                        "stack_trace",
+                        "stream_channel",
+                        "string_scanner",
+                        "sync_http",
+                        "term_glyph",
+                        "test_api",
+                        "typed_data",
+                        "vector_math",
+                        "webdriver"
+                    ]
+                },
+                "archive_url": "https://pub.dartlang.org/packages/automated_testing_framework/versions/4.0.7%2B6.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/automated_testing_framework",
+                "url": "https://pub.dartlang.org/api/packages/automated_testing_framework/versions/4.0.7%2B6"
+            }
+        },
+        {
+            "name": "whatsapp_bot_flutter",
+            "latest": {
+                "version": "0.0.8",
+                "pubspec": {
+                    "name": "whatsapp_bot_flutter",
+                    "description": "Whatsapp bot using puppeteer and whatsapp web scraping with flutter desktop/web and dart projects support",
+                    "version": "0.0.8",
+                    "homepage": "https://github.com/rohitsangwan01/whatsapp_bot_flutter",
+                    "repository": "https://github.com/rohitsangwan01/whatsapp_bot_flutter",
+                    "issue_tracker": "https://github.com/rohitsangwan01/whatsapp_bot_flutter/issues",
+                    "environment": {
+                        "sdk": ">=2.18.2 <3.0.0"
+                    },
+                    "dependencies": {
+                        "zxing2": "^0.1.1",
+                        "http": "^0.13.5",
+                        "puppeteer": "^2.17.0",
+                        "flutter_inappwebview": "^6.0.0-beta.12"
+                    },
+                    "dev_dependencies": {
+                        "lints": "^2.0.1"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/whatsapp_bot_flutter/versions/0.0.8.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/whatsapp_bot_flutter",
+                "url": "https://pub.dartlang.org/api/packages/whatsapp_bot_flutter/versions/0.0.8"
+            }
+        },
+        {
+            "name": "gate",
+            "latest": {
+                "version": "1.0.0",
+                "pubspec": {
+                    "name": "gate",
+                    "description": "Annotations for gate_generator",
+                    "version": "1.0.0",
+                    "repository": "https://github.com/Apparence-io/gate",
+                    "environment": {
+                        "sdk": ">=2.12.0 <3.0.0"
+                    },
+                    "dev_dependencies": {
+                        "flutter_lints": "^2.0.1",
+                        "test": "^1.22.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/gate/versions/1.0.0.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/gate",
+                "url": "https://pub.dartlang.org/api/packages/gate/versions/1.0.0"
+            }
+        },
+        {
+            "name": "streamdeck",
+            "latest": {
+                "version": "0.1.2",
+                "pubspec": {
+                    "name": "streamdeck",
+                    "description": "A Dart package for building plugins for the Elgato Stream Deck in Dart.",
+                    "version": "0.1.2",
+                    "repository": "https://github.com/DanTup/streamdeck.dart",
+                    "environment": {
+                        "sdk": ">=2.18.0 <3.0.0"
+                    },
+                    "dependencies": {
+                        "json_annotation": "^4.7.0",
+                        "json_serializable": "^6.5.4",
+                        "meta": "^1.8.0"
+                    },
+                    "dev_dependencies": {
+                        "lints": "^2.0.1",
+                        "build_runner": "^2.3.2"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/streamdeck/versions/0.1.2.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/streamdeck",
+                "url": "https://pub.dartlang.org/api/packages/streamdeck/versions/0.1.2"
+            }
+        },
+        {
+            "name": "rw_blue_print_pos",
+            "latest": {
+                "version": "0.0.14",
+                "pubspec": {
+                    "name": "rw_blue_print_pos",
+                    "description": "Plugin to connecting bluetooth printer device, support on Android and iOS",
+                    "version": "0.0.14",
+                    "homepage": "https://github.com/andriyoganp/blue_print_pos",
+                    "environment": {
+                        "sdk": ">=2.12.0 <3.0.0",
+                        "flutter": ">=1.20.0"
+                    },
+                    "dependencies": {
+                        "blue_thermal_printer": "1.2.0",
+                        "esc_pos_utils_plus": "2.0.1+6",
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_blue": "0.8.0",
+                        "image": "3.1.1",
+                        "qr_flutter": "^4.0.0"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "flutter": {
+                        "plugin": {
+                            "platforms": {
+                                "android": {
+                                    "package": "com.ayeee.rw_blue_print_pos",
+                                    "pluginClass": "BluePrintPosPlugin"
+                                },
+                                "ios": {
+                                    "pluginClass": "BluePrintPosPlugin"
+                                }
+                            }
+                        }
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/rw_blue_print_pos/versions/0.0.14.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/rw_blue_print_pos",
+                "url": "https://pub.dartlang.org/api/packages/rw_blue_print_pos/versions/0.0.14"
+            }
+        },
+        {
+            "name": "language_helper",
+            "latest": {
+                "version": "0.1.0",
+                "pubspec": {
+                    "name": "language_helper",
+                    "description": "Make it easier for you to implement multiple languages into your app.",
+                    "version": "0.1.0",
+                    "homepage": "https://github.com/vursin/language_helper",
+                    "environment": {
+                        "sdk": ">=2.17.0 <3.0.0",
+                        "flutter": ">=2.5.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.0"
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/language_helper/versions/0.1.0.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/language_helper",
+                "url": "https://pub.dartlang.org/api/packages/language_helper/versions/0.1.0"
+            }
+        },
+        {
+            "name": "simple_chips_input",
+            "latest": {
+                "version": "0.0.1",
+                "pubspec": {
+                    "name": "simple_chips_input",
+                    "description": "Flutter package for creating chips",
+                    "version": "0.0.1",
+                    "homepage": "https://github.com/danger-ahead/simple_chips_input",
+                    "environment": {
+                        "sdk": ">=2.18.4 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.0"
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/simple_chips_input/versions/0.0.1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/simple_chips_input",
+                "url": "https://pub.dartlang.org/api/packages/simple_chips_input/versions/0.0.1"
+            }
+        },
+        {
+            "name": "navigation_with_mapbox",
+            "latest": {
+                "version": "0.0.5",
+                "pubspec": {
+                    "name": "navigation_with_mapbox",
+                    "description": "Add Turn By Turn Navigation to Your Flutter Application Using MapBox.",
+                    "version": "0.0.5",
+                    "homepage": "https://github.com/DiRaizel/navigation_with_mapbox",
+                    "environment": {
+                        "sdk": ">=2.18.1 <3.0.0",
+                        "flutter": ">=2.5.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "plugin_platform_interface": "^2.0.2"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.0"
+                    },
+                    "flutter": {
+                        "plugin": {
+                            "platforms": {
+                                "android": {
+                                    "package": "com.navigation.with.mapbox.navigation_with_mapbox",
+                                    "pluginClass": "NavigationWithMapboxPlugin"
+                                },
+                                "ios": {
+                                    "pluginClass": "NavigationWithMapboxPlugin"
+                                }
+                            }
+                        }
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/navigation_with_mapbox/versions/0.0.5.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/navigation_with_mapbox",
+                "url": "https://pub.dartlang.org/api/packages/navigation_with_mapbox/versions/0.0.5"
+            }
+        },
+        {
+            "name": "webthree",
+            "latest": {
+                "version": "2.5.5+4",
+                "pubspec": {
+                    "name": "webthree",
+                    "description": "WebThree - a web3 library for dart for interaction with ethereum nodes using HTTP or WebSocket. Supports custom credentials providers like WalletConnect and Metamask.",
+                    "version": "2.5.5+4",
+                    "homepage": "https://devopsdao.com",
+                    "repository": "https://github.com/devopsdao/webthree",
+                    "environment": {
+                        "sdk": ">=2.12.0 <3.0.0"
+                    },
+                    "dependencies": {
+                        "build": "^2.3.1",
+                        "build_config": "^1.1.0",
+                        "built_collection": "^5.1.1",
+                        "code_builder": "^4.3.0",
+                        "collection": "^1.16.0",
+                        "convert": "^3.0.2",
+                        "dart_style": "^2.2.4",
+                        "http": "^0.13.5",
+                        "js": "^0.6.4",
+                        "json_rpc_2": "^3.0.2",
+                        "meta": "^1.8.0",
+                        "path": "^1.8.2",
+                        "pointycastle": "^3.6.2",
+                        "stream_channel": "^2.1.0",
+                        "stream_transform": "^2.0.1",
+                        "typed_data": "^1.3.1",
+                        "universal_html": "^2.0.8",
+                        "uuid": "^3.0.6"
+                    },
+                    "dev_dependencies": {
+                        "async": "^2.9.0",
+                        "build_runner": "^2.2.1",
+                        "build_test": "^2.1.5",
+                        "coverage": "^1.6.1",
+                        "test": "^1.21.6",
+                        "web_socket_channel": "^2.2.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/webthree/versions/2.5.5%2B4.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/webthree",
+                "url": "https://pub.dartlang.org/api/packages/webthree/versions/2.5.5%2B4"
+            }
+        },
+        {
+            "name": "flutter_volume_controller",
+            "latest": {
+                "version": "1.1.1",
+                "pubspec": {
+                    "name": "flutter_volume_controller",
+                    "description": "A Flutter plugin to control system volume and listen for volume changes on different platforms.",
+                    "version": "1.1.1",
+                    "homepage": "https://github.com/yosemiteyss/flutter_volume_controller",
+                    "environment": {
+                        "sdk": ">=2.17.6 <3.0.0",
+                        "flutter": ">=2.5.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.1"
+                    },
+                    "flutter": {
+                        "plugin": {
+                            "platforms": {
+                                "android": {
+                                    "package": "com.yosemiteyss.flutter_volume_controller",
+                                    "pluginClass": "FlutterVolumeControllerPlugin"
+                                },
+                                "ios": {
+                                    "pluginClass": "FlutterVolumeControllerPlugin"
+                                },
+                                "macos": {
+                                    "pluginClass": "FlutterVolumeControllerPlugin"
+                                },
+                                "windows": {
+                                    "pluginClass": "FlutterVolumeControllerPluginCApi"
+                                }
+                            }
+                        }
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/flutter_volume_controller/versions/1.1.1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/flutter_volume_controller",
+                "url": "https://pub.dartlang.org/api/packages/flutter_volume_controller/versions/1.1.1"
+            }
+        },
+        {
+            "name": "drop_down_with_search",
+            "latest": {
+                "version": "0.0.1",
+                "pubspec": {
+                    "name": "drop_down_with_search",
+                    "description": "Plugin which has custom dropdown with on text change search option.",
+                    "version": "0.0.1",
+                    "homepage": "https://github.com/FectumEngineer/CustomDropDownWithSearch.git",
+                    "environment": {
+                        "sdk": ">=2.18.4 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.0"
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/drop_down_with_search/versions/0.0.1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/drop_down_with_search",
+                "url": "https://pub.dartlang.org/api/packages/drop_down_with_search/versions/0.0.1"
+            }
+        },
+        {
+            "name": "import_lint",
+            "latest": {
+                "version": "0.9.4",
+                "pubspec": {
+                    "name": "import_lint",
+                    "description": "The Import Lint package defines import lint rules and report on lints found in Dart code.",
+                    "version": "0.9.4",
+                    "homepage": "https://kawa.dev",
+                    "repository": "https://github.com/kawa1214/import-lint",
+                    "environment": {
+                        "sdk": ">=2.17.0 <3.0.0"
+                    },
+                    "dependencies": {
+                        "analyzer": "^5.2.0",
+                        "analyzer_plugin": ">=0.11.0 <0.13.0",
+                        "args": "^2.3.0",
+                        "cli_util": "^0.3.5",
+                        "glob": "^2.0.2",
+                        "path": "^1.8.0",
+                        "yaml": "^3.1.0"
+                    },
+                    "dev_dependencies": {
+                        "coverage": "1.3.2",
+                        "linter": "^1.23.0",
+                        "lints": "2.0.1",
+                        "test": "^1.22.0",
+                        "test_reflective_loader": "^0.2.2"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/import_lint/versions/0.9.4.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/import_lint",
+                "url": "https://pub.dartlang.org/api/packages/import_lint/versions/0.9.4"
+            }
+        },
+        {
+            "name": "flutter_multi_formatter",
+            "latest": {
+                "version": "2.9.5",
+                "pubspec": {
+                    "name": "flutter_multi_formatter",
+                    "description": "A package of formatters for international phone numbers, credit / debit cards and a masked formatter",
+                    "version": "2.9.5",
+                    "homepage": "https://github.com/caseyryan/flutter_multi_formatter",
+                    "environment": {
+                        "sdk": ">=2.12.0 <3.0.0",
+                        "flutter": ">=2.0.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "collection": "^1.15.0",
+                        "base58check": "^2.0.0",
+                        "bech32": "^0.2.0"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "flutter": {
+                        "assets": [
+                            "flags/png/"
+                        ]
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/flutter_multi_formatter/versions/2.9.5.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/flutter_multi_formatter",
+                "url": "https://pub.dartlang.org/api/packages/flutter_multi_formatter/versions/2.9.5"
+            }
+        },
+        {
+            "name": "buzz_repo",
+            "latest": {
+                "version": "0.0.14",
+                "pubspec": {
+                    "name": "buzz_repo",
+                    "description": "A package to define local and remote repos",
+                    "version": "0.0.14",
+                    "homepage": "https://github.com/abbas-alshafai/buzz_repo",
+                    "environment": {
+                        "sdk": ">=2.16.1 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "copy_with_extension": "^4.0.0",
+                        "buzz_result": "^0.0.1",
+                        "buzz_logger": "^0.0.1",
+                        "buzz_utils": "^0.0.2"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^1.0.0",
+                        "build_runner": "^2.1.7",
+                        "copy_with_extension_gen": "^4.0.2"
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/buzz_repo/versions/0.0.14.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/buzz_repo",
+                "url": "https://pub.dartlang.org/api/packages/buzz_repo/versions/0.0.14"
+            }
+        },
+        {
+            "name": "custom_route_transitions_li",
+            "latest": {
+                "version": "0.0.3",
+                "pubspec": {
+                    "name": "custom_route_transitions_li",
+                    "description": "Este paquete ayuda al manejo de las transiciones entre pantallas de forma elegante y facil.",
+                    "version": "0.0.3",
+                    "homepage": "https://github.com/hasprilla",
+                    "environment": {
+                        "sdk": ">=2.18.1 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.0"
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/custom_route_transitions_li/versions/0.0.3.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/custom_route_transitions_li",
+                "url": "https://pub.dartlang.org/api/packages/custom_route_transitions_li/versions/0.0.3"
+            }
+        },
+        {
+            "name": "youtube_explode_dart",
+            "latest": {
+                "version": "1.12.3",
+                "pubspec": {
+                    "name": "youtube_explode_dart",
+                    "description": "A port in dart of the youtube explode library. Supports several API functions without the need of Youtube API Key.",
+                    "version": "1.12.3",
+                    "homepage": "https://github.com/Hexer10/youtube_explode_dart",
+                    "environment": {
+                        "sdk": ">=2.14.0 <3.0.0"
+                    },
+                    "dependencies": {
+                        "collection": "^1.16.0",
+                        "freezed_annotation": "^2.0.3",
+                        "html": "^0.15.0",
+                        "http": "^0.13.4",
+                        "http_parser": "^4.0.0",
+                        "json_annotation": "^4.5.0",
+                        "meta": "^1.7.0",
+                        "xml": "^6.1.0"
+                    },
+                    "dev_dependencies": {
+                        "build_runner": "^2.1.11",
+                        "console": "^4.1.0",
+                        "freezed": "^2.0.3+1",
+                        "json_serializable": "^6.2.0",
+                        "lint": "^1.10.0",
+                        "test": "^1.21.1"
+                    },
+                    "false_secrets": [
+                        "lib/src/reverse_engineering/youtube_http_client.dart",
+                        "lib/src/reverse_engineering/clients/embedded_player_client.dart"
+                    ]
+                },
+                "archive_url": "https://pub.dartlang.org/packages/youtube_explode_dart/versions/1.12.3.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/youtube_explode_dart",
+                "url": "https://pub.dartlang.org/api/packages/youtube_explode_dart/versions/1.12.3"
+            }
+        },
+        {
+            "name": "flat_list",
+            "latest": {
+                "version": "0.1.3",
+                "pubspec": {
+                    "name": "flat_list",
+                    "description": "FlatList widget for Flutter which has similar spec as in React Native's FlatList.",
+                    "version": "0.1.3",
+                    "repository": "https://github.com/hyochan/flat_list",
+                    "environment": {
+                        "sdk": ">=2.17.0 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.0"
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/flat_list/versions/0.1.3.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/flat_list",
+                "url": "https://pub.dartlang.org/api/packages/flat_list/versions/0.1.3"
+            }
+        },
+        {
+            "name": "bdd_widget_test",
+            "latest": {
+                "version": "1.4.3",
+                "pubspec": {
+                    "name": "bdd_widget_test",
+                    "description": "A BDD-style widget testing library. Generates Flutter widget tests from *.feature files.",
+                    "version": "1.4.3",
+                    "homepage": "https://github.com/olexale/bdd_widget_test",
+                    "environment": {
+                        "sdk": ">=2.12.0 <3.0.0"
+                    },
+                    "dependencies": {
+                        "build": "^2.2.1",
+                        "build_config": "^1.0.0",
+                        "characters": "^1.2.0",
+                        "collection": "^1.15.0",
+                        "diacritic": "^0.1.3",
+                        "file": "^6.1.2",
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "meta": "^1.7.0",
+                        "path": "^1.8.0",
+                        "yaml": "^3.1.0"
+                    },
+                    "dev_dependencies": {
+                        "build_runner": "^2.1.7",
+                        "build_test": "^2.1.5",
+                        "extra_pedantic": "^1.5.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/bdd_widget_test/versions/1.4.3.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/bdd_widget_test",
+                "url": "https://pub.dartlang.org/api/packages/bdd_widget_test/versions/1.4.3"
+            }
+        },
+        {
+            "name": "pick_or_save",
+            "latest": {
+                "version": "2.1.8",
+                "pubspec": {
+                    "name": "pick_or_save",
+                    "description": "A Flutter file picking and saving package that enables you to pick or save a single file and multiple files.",
+                    "version": "2.1.8",
+                    "homepage": "https://github.com/chaudharydeepanshu/pick_or_save",
+                    "repository": "https://github.com/chaudharydeepanshu/pick_or_save",
+                    "issue_tracker": "https://github.com/chaudharydeepanshu/pick_or_save/issues",
+                    "environment": {
+                        "sdk": ">=2.18.0 <3.0.0",
+                        "flutter": ">=2.5.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "plugin_platform_interface": "^2.1.3"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.1"
+                    },
+                    "flutter": {
+                        "plugin": {
+                            "platforms": {
+                                "android": {
+                                    "package": "com.deepanshuchaudhary.pick_or_save",
+                                    "pluginClass": "PickOrSavePlugin"
+                                }
+                            }
+                        }
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/pick_or_save/versions/2.1.8.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/pick_or_save",
+                "url": "https://pub.dartlang.org/api/packages/pick_or_save/versions/2.1.8"
+            }
+        },
+        {
+            "name": "envied_generator",
+            "latest": {
+                "version": "0.2.3+1",
+                "pubspec": {
+                    "name": "envied_generator",
+                    "description": "Generator for the Envied package. See https://pub.dev/packages/envied.",
+                    "version": "0.2.3+1",
+                    "repository": "https://github.com/petercinibulk/envied",
+                    "homepage": "https://github.com/petercinibulk/envied",
+                    "environment": {
+                        "sdk": ">=2.17.1 <3.0.0"
+                    },
+                    "dependencies": {
+                        "envied": "^0.2.4",
+                        "build": "^2.3.0",
+                        "dotenv": "^4.0.1",
+                        "source_gen": "^1.2.2",
+                        "analyzer": "^5.1.0"
+                    },
+                    "dev_dependencies": {
+                        "lints": "^2.0.0",
+                        "test": "^1.16.0",
+                        "source_gen_test": "^1.0.3"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/envied_generator/versions/0.2.3%2B1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/envied_generator",
+                "url": "https://pub.dartlang.org/api/packages/envied_generator/versions/0.2.3%2B1"
+            }
+        },
+        {
+            "name": "envied",
+            "latest": {
+                "version": "0.2.4",
+                "pubspec": {
+                    "name": "envied",
+                    "description": "Explicitly reads environment variables into a dart file from a .env file for more security and faster start up times.",
+                    "version": "0.2.4",
+                    "repository": "https://github.com/petercinibulk/envied",
+                    "homepage": "https://github.com/petercinibulk/envied",
+                    "environment": {
+                        "sdk": ">=2.17.1 <3.0.0"
+                    },
+                    "dev_dependencies": {
+                        "lints": "^2.0.0",
+                        "test": "^1.16.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/envied/versions/0.2.4.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/envied",
+                "url": "https://pub.dartlang.org/api/packages/envied/versions/0.2.4"
+            }
+        },
+        {
+            "name": "webf",
+            "latest": {
+                "version": "0.12.0+1",
+                "pubspec": {
+                    "name": "webf",
+                    "description": "A W3C standard compliant Web rendering engine based on Flutter.",
+                    "version": "0.12.0+1",
+                    "homepage": "https://openwebf.com",
+                    "environment": {
+                        "sdk": ">=2.17.5 <3.0.0",
+                        "flutter": ">=3.0.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "path": "^1.8.1",
+                        "meta": "^1.7.0",
+                        "ffi": "^2.0.1",
+                        "characters": "^1.2.0",
+                        "async": "^2.8.2",
+                        "quiver": "^3.1.0",
+                        "vector_math": "^2.1.2",
+                        "connectivity_plus": "^2.3.5",
+                        "shared_preferences": "^2.0.15"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "test": "^1.20.2"
+                    },
+                    "flutter": {
+                        "plugin": {
+                            "platforms": {
+                                "android": {
+                                    "package": "com.openwebf.webf",
+                                    "pluginClass": "WebFPlugin"
+                                },
+                                "ios": {
+                                    "pluginClass": "WebFPlugin"
+                                },
+                                "macos": {
+                                    "pluginClass": "WebFPlugin"
+                                },
+                                "linux": {
+                                    "pluginClass": "WebfPlugin"
+                                }
+                            }
+                        }
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/webf/versions/0.12.0%2B1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/webf",
+                "url": "https://pub.dartlang.org/api/packages/webf/versions/0.12.0%2B1"
+            }
+        },
+        {
+            "name": "pdf_bitmaps",
+            "latest": {
+                "version": "0.3.2",
+                "pubspec": {
+                    "name": "pdf_bitmaps",
+                    "description": "A flutter PDF pages images genrator which also helps with few other common pdf related things.",
+                    "version": "0.3.2",
+                    "homepage": "https://github.com/chaudharydeepanshu/pdf_bitmaps",
+                    "repository": "https://github.com/chaudharydeepanshu/pdf_bitmaps",
+                    "issue_tracker": "https://github.com/chaudharydeepanshu/pdf_bitmaps/issues",
+                    "environment": {
+                        "sdk": ">=2.18.1 <3.0.0",
+                        "flutter": ">=2.5.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "plugin_platform_interface": "^2.1.3"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.1"
+                    },
+                    "flutter": {
+                        "plugin": {
+                            "platforms": {
+                                "android": {
+                                    "package": "com.deepanshuchaudhary.pdf_bitmaps",
+                                    "pluginClass": "PdfBitmapsPlugin"
+                                }
+                            }
+                        }
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/pdf_bitmaps/versions/0.3.2.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/pdf_bitmaps",
+                "url": "https://pub.dartlang.org/api/packages/pdf_bitmaps/versions/0.3.2"
+            }
+        },
+        {
+            "name": "pluto_grid",
+            "latest": {
+                "version": "5.4.1",
+                "pubspec": {
+                    "name": "pluto_grid",
+                    "description": "PlutoGrid is a dataGrid that can be controlled by the keyboard on desktop and web. Of course, it works well on Android and IOS. (DataGrid, DataTable, Data Grid, Data Table, Sticky)",
+                    "version": "5.4.1",
+                    "homepage": "https://pluto.weblaze.dev",
+                    "repository": "https://github.com/bosskmk/pluto_grid",
+                    "environment": {
+                        "sdk": ">=2.17.0 <3.0.0",
+                        "flutter": ">=2.5.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "intl": "^0.17.0",
+                        "rxdart": "^0.27.5",
+                        "collection": "^1.16.0"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "mockito": "^5.3.2",
+                        "build_runner": "^2.3.2",
+                        "flutter_lints": "^2.0.1"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/pluto_grid/versions/5.4.1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/pluto_grid",
+                "url": "https://pub.dartlang.org/api/packages/pluto_grid/versions/5.4.1"
+            }
+        },
+        {
+            "name": "firebase_database_mocks",
+            "latest": {
+                "version": "0.5.0",
+                "pubspec": {
+                    "name": "firebase_database_mocks",
+                    "description": "Fakes to write unit tests for FirebaseDatabase (real-time database).",
+                    "version": "0.5.0",
+                    "repository": "https://github.com/sitatec/firebase_database_mocks.git",
+                    "homepage": "https://github.com/sitatec/firebase_database_mocks.git",
+                    "issue_tracker": "https://github.com/sitatec/firebase_database_mocks/issues",
+                    "environment": {
+                        "sdk": ">=2.12.0 <3.0.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "firebase_database": "^10.0.2",
+                        "mockito": "^5.3.0",
+                        "firebase_core_platform_interface": "^4.5.0"
+                    },
+                    "dev_dependencies": {
+                        "flutter_lints": "^2.0.1"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/firebase_database_mocks/versions/0.5.0.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/firebase_database_mocks",
+                "url": "https://pub.dartlang.org/api/packages/firebase_database_mocks/versions/0.5.0"
+            }
+        },
+        {
+            "name": "another_stepper",
+            "latest": {
+                "version": "1.1.6",
+                "pubspec": {
+                    "name": "another_stepper",
+                    "description": "A flutter package to create easily customizable Horizontal and Vertical stepper.",
+                    "version": "1.1.6",
+                    "repository": "https://github.com/BlackNoir1/another_stepper",
+                    "environment": {
+                        "sdk": ">=2.12.0 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.0"
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/another_stepper/versions/1.1.6.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/another_stepper",
+                "url": "https://pub.dartlang.org/api/packages/another_stepper/versions/1.1.6"
+            }
+        },
+        {
+            "name": "apple_linear_progress_indicator",
+            "latest": {
+                "version": "0.0.1",
+                "pubspec": {
+                    "name": "apple_linear_progress_indicator",
+                    "description": "Apple style progress indicator.",
+                    "version": "0.0.1",
+                    "homepage": "https://github.com/alionurozdemir/apple_linear_progress_indicator",
+                    "environment": {
+                        "sdk": ">=2.18.2 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.0"
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/apple_linear_progress_indicator/versions/0.0.1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/apple_linear_progress_indicator",
+                "url": "https://pub.dartlang.org/api/packages/apple_linear_progress_indicator/versions/0.0.1"
+            }
+        },
+        {
+            "name": "flutterw",
+            "latest": {
+                "version": "0.4.0",
+                "pubspec": {
+                    "name": "flutterw",
+                    "description": "flutterw wraps flutter tool for advanced usage.",
+                    "version": "0.4.0",
+                    "homepage": "https://github.com/hyiso/flutterw",
+                    "environment": {
+                        "sdk": ">=2.12.0 <3.0.0"
+                    },
+                    "dependencies": {
+                        "args": "^2.3.1",
+                        "colorize": "^3.0.0",
+                        "http": "^0.13.3",
+                        "path": "^1.8.1",
+                        "yaml": "^3.1.0"
+                    },
+                    "dev_dependencies": {
+                        "lints": "^2.0.0",
+                        "test": "^1.16.0"
+                    },
+                    "executables": {
+                        "flutterw": null,
+                        "dartw": null
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/flutterw/versions/0.4.0.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/flutterw",
+                "url": "https://pub.dartlang.org/api/packages/flutterw/versions/0.4.0"
+            }
+        },
+        {
+            "name": "flutterrealm_light",
+            "latest": {
+                "version": "1.2.0+1",
+                "pubspec": {
+                    "name": "flutterrealm_light",
+                    "description": "Flutter plugin which mostly like native sdk of iOS",
+                    "version": "1.2.0+1",
+                    "homepage": "https://github.com/chapterinc/flutter-realm-plugin",
+                    "environment": {
+                        "sdk": ">=2.17.0 <3.0.0",
+                        "flutter": ">=1.12.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "dev_dependencies": {
+                        "flutter_driver": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "test": "any",
+                    "flutter": {
+                        "plugin": {
+                            "platforms": {
+                                "ios": {
+                                    "pluginClass": "Flutterrealm_lightPlugin"
+                                }
+                            }
+                        }
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/flutterrealm_light/versions/1.2.0%2B1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/flutterrealm_light",
+                "url": "https://pub.dartlang.org/api/packages/flutterrealm_light/versions/1.2.0%2B1"
+            }
+        },
+        {
+            "name": "figma_auto_layout",
+            "latest": {
+                "version": "0.0.2",
+                "pubspec": {
+                    "name": "figma_auto_layout",
+                    "description": "A replicate of Figma's auto layout feature that makes converting Figma designs to code faster and less error prone.",
+                    "version": "0.0.2",
+                    "homepage": "https://github.com/JakesMD/flutter_figma_auto_layout",
+                    "repository": "https://github.com/JakesMD/flutter_figma_auto_layout",
+                    "environment": {
+                        "sdk": ">=2.18.2 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "signed_spacing_flex": "^0.0.5"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.0"
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/figma_auto_layout/versions/0.0.2.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/figma_auto_layout",
+                "url": "https://pub.dartlang.org/api/packages/figma_auto_layout/versions/0.0.2"
+            }
+        },
+        {
+            "name": "thememate",
+            "latest": {
+                "version": "0.0.2",
+                "pubspec": {
+                    "name": "thememate",
+                    "description": "Simple library to demo some theme data",
+                    "version": "0.0.2",
+                    "homepage": "https://gitlab.com/singularis-technologies/packages/thememate.git",
+                    "environment": {
+                        "sdk": ">=2.18.4 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.0"
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/thememate/versions/0.0.2.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/thememate",
+                "url": "https://pub.dartlang.org/api/packages/thememate/versions/0.0.2"
+            }
+        },
+        {
+            "name": "fdark",
+            "latest": {
+                "version": "1.0.3",
+                "pubspec": {
+                    "name": "fdark",
+                    "description": "Enhanced API server",
+                    "version": "1.0.3",
+                    "homepage": "https://github.com/andypangaribuan/fdark",
+                    "environment": {
+                        "sdk": ">=2.17.6 <3.0.0"
+                    },
+                    "dependencies": {
+                        "shelf": "^1.4.0",
+                        "shelf_router": "^1.1.3",
+                        "meta": "^1.8.0",
+                        "postgres": "^2.5.2",
+                        "decimal": "^2.3.0",
+                        "fdation": "^1.0.5"
+                    },
+                    "dev_dependencies": {
+                        "lints": "^2.0.0",
+                        "test": "^1.16.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/fdark/versions/1.0.3.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/fdark",
+                "url": "https://pub.dartlang.org/api/packages/fdark/versions/1.0.3"
+            }
+        },
+        {
+            "name": "flutter_js",
+            "latest": {
+                "version": "0.6.0",
+                "pubspec": {
+                    "name": "flutter_js",
+                    "description": "A Javascript engine to use with flutter. It uses Quickjs on Android and JavascriptCore on IOS",
+                    "version": "0.6.0",
+                    "homepage": "https://github.com/abner/flutter_js",
+                    "repository": "https://github.com/abner/flutter_js",
+                    "environment": {
+                        "sdk": ">=2.17.0 <3.0.0",
+                        "flutter": ">=3.0.0 <4.0.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "ffi": "^2.0.0",
+                        "http": "^0.13.4",
+                        "sync_http": "^0.3.0"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "flutter": {
+                        "plugin": {
+                            "platforms": {
+                                "android": {
+                                    "package": "io.abner.flutter_js",
+                                    "pluginClass": "FlutterJsPlugin"
+                                },
+                                "ios": {
+                                    "pluginClass": "FlutterJsPlugin"
+                                },
+                                "linux": {
+                                    "pluginClass": "FlutterJsPlugin"
+                                },
+                                "macos": {
+                                    "pluginClass": "FlutterJsPlugin"
+                                },
+                                "windows": {
+                                    "pluginClass": "FlutterJsPlugin"
+                                }
+                            }
+                        },
+                        "assets": [
+                            "assets/js/"
+                        ]
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/flutter_js/versions/0.6.0.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/flutter_js",
+                "url": "https://pub.dartlang.org/api/packages/flutter_js/versions/0.6.0"
+            }
+        },
+        {
+            "name": "fdation",
+            "latest": {
+                "version": "1.0.5",
+                "pubspec": {
+                    "name": "fdation",
+                    "description": "Dart foundation goods.",
+                    "version": "1.0.5",
+                    "homepage": "https://github.com/andypangaribuan/fdation",
+                    "environment": {
+                        "sdk": ">=2.17.6 <3.0.0"
+                    },
+                    "dependencies": {
+                        "meta": "^1.8.0",
+                        "synchronized": "^3.0.0+3",
+                        "clock": "^1.1.1",
+                        "dio": "^4.0.6",
+                        "decimal": "^2.3.0"
+                    },
+                    "dev_dependencies": {
+                        "lints": "^2.0.0",
+                        "test": "^1.16.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/fdation/versions/1.0.5.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/fdation",
+                "url": "https://pub.dartlang.org/api/packages/fdation/versions/1.0.5"
+            }
+        },
+        {
+            "name": "google_applovin_unity_ads",
+            "latest": {
+                "version": "2.1.9",
+                "pubspec": {
+                    "name": "google_applovin_unity_ads",
+                    "description": "Ads Implement",
+                    "version": "2.1.9",
+                    "homepage": null,
+                    "environment": {
+                        "sdk": ">=2.16.2 <3.0.0",
+                        "flutter": ">=2.5.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "visibility_detector": "^0.3.3",
+                        "flutter_staggered_grid_view": "^0.4.1",
+                        "http": "^0.13.5",
+                        "meta": "^1.7.0",
+                        "get": "^4.6.5"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^1.0.0"
+                    },
+                    "flutter": {
+                        "plugin": {
+                            "platforms": {
+                                "android": {
+                                    "package": "com.btcpiyush.ads.google_applovin_unity_ads",
+                                    "pluginClass": "GoogleApplovinUnityAdsPlugin"
+                                },
+                                "ios": {
+                                    "pluginClass": "GoogleApplovinUnityAdsPlugin"
+                                }
+                            }
+                        }
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/google_applovin_unity_ads/versions/2.1.9.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/google_applovin_unity_ads",
+                "url": "https://pub.dartlang.org/api/packages/google_applovin_unity_ads/versions/2.1.9"
+            }
+        },
+        {
+            "name": "auth_repo",
+            "latest": {
+                "version": "0.1.0",
+                "pubspec": {
+                    "name": "auth_repo",
+                    "description": "An account authentication repository",
+                    "version": "0.1.0",
+                    "homepage": "https://github.com/hanlogy/flutter-auth_repo",
+                    "environment": {
+                        "sdk": ">=2.18.4 <3.0.0"
+                    },
+                    "dependencies": {
+                        "bloc": "^8.1.0",
+                        "dart_helpers": "^0.1.0",
+                        "ease_http": "^0.1.3",
+                        "equatable": "^2.0.5",
+                        "shared_preferences": "^2.0.15"
+                    },
+                    "dev_dependencies": {
+                        "dart_jsonwebtoken": "^2.4.2",
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "http": "^0.13.5",
+                        "lints": "^2.0.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/auth_repo/versions/0.1.0.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/auth_repo",
+                "url": "https://pub.dartlang.org/api/packages/auth_repo/versions/0.1.0"
+            }
+        },
+        {
+            "name": "upi_payment_qrcode_generator",
+            "latest": {
+                "version": "1.1.2",
+                "pubspec": {
+                    "name": "upi_payment_qrcode_generator",
+                    "description": "UPI Payment QRCode Generator for User to scan and pay the Payee specific amount or user specific amount.",
+                    "version": "1.1.2",
+                    "homepage": "https://github.com/AgnelSelvan/upi_payment_qrcode_generator",
+                    "environment": {
+                        "sdk": ">=2.15.1 <3.0.0",
+                        "flutter": ">=2.5.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        },
+                        "barcode": "^2.2.0",
+                        "flutter_svg": "^1.0.2"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^1.0.0"
+                    },
+                    "flutter": {
+                        "plugin": {
+                            "platforms": {
+                                "android": {
+                                    "package": "com.example.upi_payment_qrcode_generator",
+                                    "pluginClass": "UpiPaymentQrcodeGeneratorPlugin"
+                                },
+                                "ios": {
+                                    "pluginClass": "UpiPaymentQrcodeGeneratorPlugin"
+                                },
+                                "macos": {
+                                    "pluginClass": "UpiPaymentQrcodeGeneratorPlugin"
+                                },
+                                "web": {
+                                    "pluginClass": "UpiPaymentQrcodeGeneratorPlugin"
+                                },
+                                "linux": {
+                                    "pluginClass": "UpiPaymentQrcodeGeneratorPlugin"
+                                },
+                                "windows": {
+                                    "pluginClass": "UpiPaymentQrcodeGeneratorPlugin"
+                                }
+                            }
+                        }
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/upi_payment_qrcode_generator/versions/1.1.2.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/upi_payment_qrcode_generator",
+                "url": "https://pub.dartlang.org/api/packages/upi_payment_qrcode_generator/versions/1.1.2"
+            }
+        },
+        {
+            "name": "icons_launcher",
+            "latest": {
+                "version": "2.0.6",
+                "pubspec": {
+                    "name": "icons_launcher",
+                    "description": "A command-line tool that simplifies the task of updating your Flutter app's launcher icon.",
+                    "maintainer": "Mrr Hak",
+                    "homepage": "https://mrrhak.com",
+                    "repository": "https://github.com/mrrhak/icons_launcher",
+                    "version": "2.0.6",
+                    "dependencies": {
+                        "args": "^2.3.1",
+                        "image": "^3.2.2",
+                        "path": "^1.8.2",
+                        "universal_io": "^2.0.4",
+                        "yaml": "^3.1.1"
+                    },
+                    "environment": {
+                        "sdk": ">=2.17.1 <3.0.0"
+                    },
+                    "dev_dependencies": {
+                        "build_runner": "^2.3.2",
+                        "build_version": "^2.1.1",
+                        "test": "^1.22.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/icons_launcher/versions/2.0.6.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/icons_launcher",
+                "url": "https://pub.dartlang.org/api/packages/icons_launcher/versions/2.0.6"
+            }
+        },
+        {
+            "name": "zipper",
+            "latest": {
+                "version": "0.0.2+5",
+                "pubspec": {
+                    "name": "zipper",
+                    "description": "Package a directory into a single file. Zipper does not .zip",
+                    "version": "0.0.2+5",
+                    "homepage": null,
+                    "environment": {
+                        "sdk": ">=2.12.0 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "async_foreach": "^0.0.4+3"
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/zipper/versions/0.0.2%2B5.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/zipper",
+                "url": "https://pub.dartlang.org/api/packages/zipper/versions/0.0.2%2B5"
+            }
+        },
+        {
+            "name": "async_foreach",
+            "latest": {
+                "version": "0.0.4+3",
+                "pubspec": {
+                    "name": "async_foreach",
+                    "description": "Support for easily looping through arrays asynchrounously and beign able to await for the completion",
+                    "version": "0.0.4+3",
+                    "homepage": null,
+                    "environment": {
+                        "sdk": ">=2.12.0 <3.0.0",
+                        "flutter": ">=1.17.0 <2.0.0"
+                    },
+                    "dependencies": null,
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/async_foreach/versions/0.0.4%2B3.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/async_foreach",
+                "url": "https://pub.dartlang.org/api/packages/async_foreach/versions/0.0.4%2B3"
+            }
+        },
+        {
+            "name": "country_selector_widget",
+            "latest": {
+                "version": "0.1.1",
+                "pubspec": {
+                    "name": "country_selector_widget",
+                    "description": "Country Selector Widget provides CountrySelectorWidget and showCountrySelectorBottomSheet to fulfill the needed usage.",
+                    "version": "0.1.1",
+                    "homepage": "https://hkk97.github.io/country_selector_widget/",
+                    "environment": {
+                        "sdk": ">=2.18.4 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.0"
+                    },
+                    "flutter": {
+                        "assets": [
+                            "assets/flags/"
+                        ]
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/country_selector_widget/versions/0.1.1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/country_selector_widget",
+                "url": "https://pub.dartlang.org/api/packages/country_selector_widget/versions/0.1.1"
+            }
+        },
+        {
+            "name": "libcrypto",
+            "latest": {
+                "version": "0.2.2",
+                "pubspec": {
+                    "name": "libcrypto",
+                    "description": "Cryptography utility library for AES encryption and Pbkdf2 hashing algorithms.",
+                    "version": "0.2.2",
+                    "repository": "https://github.com/MedzikUser/libcrypto-dart",
+                    "environment": {
+                        "sdk": ">=2.18.2 <3.0.0"
+                    },
+                    "dependencies": {
+                        "pointycastle": "^3.6.2",
+                        "hex": "^0.2.0"
+                    },
+                    "dev_dependencies": {
+                        "lints": "^2.0.1",
+                        "test": "^1.22.0"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/libcrypto/versions/0.2.2.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/libcrypto",
+                "url": "https://pub.dartlang.org/api/packages/libcrypto/versions/0.2.2"
+            }
+        },
+        {
+            "name": "centered_singlechildscrollview",
+            "latest": {
+                "version": "0.1.8",
+                "pubspec": {
+                    "name": "centered_singlechildscrollview",
+                    "description": "You can choose distribution of children on scrollDirection by specifying mainAxisAlignment like Column.",
+                    "version": "0.1.8",
+                    "homepage": "https://github.com/ilham-asgarli/centered_singlechildscrollview",
+                    "repository": "https://github.com/ilham-asgarli/centered_singlechildscrollview",
+                    "environment": {
+                        "sdk": ">=2.18.1 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.0"
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/centered_singlechildscrollview/versions/0.1.8.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/centered_singlechildscrollview",
+                "url": "https://pub.dartlang.org/api/packages/centered_singlechildscrollview/versions/0.1.8"
+            }
+        },
+        {
+            "name": "bottom_navigation_mohamedtech",
+            "latest": {
+                "version": "0.0.1",
+                "pubspec": {
+                    "name": "bottom_navigation_mohamedtech",
+                    "description": "simple bottom Navigation bar",
+                    "version": "0.0.1",
+                    "homepage": "https://github.com/Ahmed-ilyas/Bottom_NavigationBar.git",
+                    "environment": {
+                        "sdk": ">=2.19.0-347.0.dev <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.0"
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/bottom_navigation_mohamedtech/versions/0.0.1.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/bottom_navigation_mohamedtech",
+                "url": "https://pub.dartlang.org/api/packages/bottom_navigation_mohamedtech/versions/0.0.1"
+            }
+        },
+        {
+            "name": "flutter_social_login_widget",
+            "latest": {
+                "version": "1.0.0",
+                "pubspec": {
+                    "name": "flutter_social_login_widget",
+                    "description": "A social login widget.",
+                    "homepage": "https://github.com/coskuncay/flutter_social_login_widget",
+                    "repository": "https://github.com/coskuncay/flutter_social_login_widget",
+                    "version": "1.0.0",
+                    "environment": {
+                        "sdk": ">=2.18.2 <3.0.0",
+                        "flutter": ">=1.17.0"
+                    },
+                    "dependencies": {
+                        "flutter": {
+                            "sdk": "flutter"
+                        }
+                    },
+                    "dev_dependencies": {
+                        "flutter_test": {
+                            "sdk": "flutter"
+                        },
+                        "flutter_lints": "^2.0.0"
+                    },
+                    "flutter": null
+                },
+                "archive_url": "https://pub.dartlang.org/packages/flutter_social_login_widget/versions/1.0.0.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/flutter_social_login_widget",
+                "url": "https://pub.dartlang.org/api/packages/flutter_social_login_widget/versions/1.0.0"
+            }
+        },
+        {
+            "name": "websocket_universal",
+            "latest": {
+                "version": "0.3.6",
+                "pubspec": {
+                    "name": "websocket_universal",
+                    "description": "Convenient websocket handler for all platforms (both IO and web/HTML).\nWebsocket messages routing, statuses and other features have easy-to-use\ninterface.\n",
+                    "version": "0.3.6",
+                    "repository": "https://github.com/dvmatyun/web_socket",
+                    "issue_tracker": "https://github.com/dvmatyun/web_socket/issues",
+                    "homepage": "https://github.com/dvmatyun/web_socket",
+                    "environment": {
+                        "sdk": ">=2.17.6 <3.0.0"
+                    },
+                    "dependencies": {
+                        "json_annotation": "^4.5.0",
+                        "meta": "^1.7.0"
+                    },
+                    "dev_dependencies": {
+                        "json_serializable": "^6.0.0",
+                        "lints": "^2.0.0",
+                        "build_runner": "^2.0.3",
+                        "test": "^1.16.0",
+                        "coverage": "any"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/websocket_universal/versions/0.3.6.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/websocket_universal",
+                "url": "https://pub.dartlang.org/api/packages/websocket_universal/versions/0.3.6"
+            }
+        },
+        {
+            "name": "otp",
+            "latest": {
+                "version": "3.1.3",
+                "pubspec": {
+                    "name": "otp",
+                    "version": "3.1.3",
+                    "description": "RFC6238 Time-Based One-Time Password / Google Authenticator Library",
+                    "homepage": "https://github.com/Daegalus/dart-otp",
+                    "environment": {
+                        "sdk": ">=2.12.0 <3.0.0"
+                    },
+                    "dependencies": {
+                        "base32": "^2.1.3",
+                        "crypto": "^3.0.0",
+                        "logging": "^1.0.2"
+                    },
+                    "dev_dependencies": {
+                        "lints": "^1.0.1",
+                        "test": "^1.21.2"
+                    }
+                },
+                "archive_url": "https://pub.dartlang.org/packages/otp/versions/3.1.3.tar.gz",
+                "package_url": "https://pub.dartlang.org/api/packages/otp",
+                "url": "https://pub.dartlang.org/api/packages/otp/versions/3.1.3"
+            }
+        }
+    ]
+}
